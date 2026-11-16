@@ -1,0 +1,2177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261111115143EWRVPS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261111115143E25NIY</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Compuertas inteligentes para Doñana: del circuito electrónico a la automatización con micro:bit</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Diseño, construcción y automatización para la gestión sostenible de recursos hídricos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Manuel Hernández Cledera</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto de Tecnología de 4.º de ESO: el alumnado diseña, construye y programa con micro:bit una compuerta inteligente para gestionar de forma sostenible el agua de Doñana. Incluye recursos, evaluación y guía didáctica.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794846374935</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>ae0b7be2-041f-426d-aeaf-33f0156d7ea4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>ae0b7be2-041f-426d-aeaf-33f0156d7ea4</odePageId>
+      <odeBlockId>block-mwc1aovm-vlb0nk58p</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>ae0b7be2-041f-426d-aeaf-33f0156d7ea4</odePageId>
+          <odeBlockId>block-mwc1aovm-vlb0nk58p</odeBlockId>
+          <odeIdeviceId>idevice-1794396417392-xgiaj8ce2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>¿De qué trata este proyecto?</h2>
+<p>El agua es un recurso escaso, y en espacios como Doñana su gestión marca la diferencia entre un ecosistema sano y uno en peligro. En este proyecto vas a <strong>diseñar, construir y automatizar una compuerta hídrica</strong> que permita controlar el paso del agua de forma eficiente y sostenible.</p>
+<p>Empezarás con un circuito eléctrico y electrónico, pasarás por la neumática y terminarás programando una placa <strong>micro:bit</strong> para que tu compuerta funcione sola. Trabajarás en equipo, como lo hacen los equipos técnicos reales.</p>
+<h2>Tu reto</h2>
+<p><strong>¿Cómo podemos gestionar el agua de forma inteligente, eficiente y sostenible con una compuerta que se accione automáticamente?</strong></p>
+<h2>El proyecto de un vistazo</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th style="width: 25%;"><strong>Materia y nivel</strong></th>
+<td>Tecnología, 4.º de ESO</td>
+</tr>
+<tr>
+<th><strong>Curso</strong></th>
+<td>2026/2027</td>
+</tr>
+<tr>
+<th><strong>Duración</strong></th>
+<td>23 sesiones prácticas</td>
+</tr>
+<tr>
+<th><strong>Centro de interés</strong></th>
+<td>Gestión sostenible del agua: uso eficiente del agua y de los materiales, y reciclaje</td>
+</tr>
+<tr>
+<th><strong>Lengua</strong></th>
+<td>Español, con inglés técnico funcional (MakeCode micro:bit, simuladores online y hojas de características)</td>
+</tr>
+</tbody>
+</table>
+<h2>Las tres fases</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Fase</strong></th>
+<th><strong>Sesiones</strong></th>
+<th><strong>Trimestre</strong></th>
+<th><strong>Qué harás</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Electricidad y Electrónica</td>
+<td>11</td>
+<td>2.º</td>
+<td>Montarás un circuito con motor y finales de carrera para mover la compuerta.</td>
+</tr>
+<tr>
+<td>2. Neumática</td>
+<td>4</td>
+<td>2.º</td>
+<td>Accionarás la compuerta con un cilindro neumático construido con una jeringuilla.</td>
+</tr>
+<tr>
+<td>3. Automatización con micro:bit</td>
+<td>8</td>
+<td>3.er</td>
+<td>Programarás la micro:bit para que la compuerta se abra y se cierre de forma automática.</td>
+</tr>
+</tbody>
+</table>
+<h2>Un proyecto con otras materias</h2>
+<p>Lo que aprendas aquí lo conectarás con <strong>Matemáticas, Física y Química, Inglés, Biología y Geología, y Geografía e Historia</strong>: medir, calcular, entender el ecosistema y su historia, y leer documentación técnica en inglés.</p>
+<h2>Antes de empezar</h2>
+<ul>
+<li>Revisa la página <strong>Protección de datos y derechos digitales</strong>.</li>
+<li>Consulta la <strong>línea temporal</strong> para ver cómo se organizan las sesiones.</li>
+<li>Si algo falla (equipo, conexión o montaje), sigue el protocolo de actuación en 4 pasos: reinicia, comprueba conexiones, prueba una alternativa y avisa al docente.</li>
+</ul>
+<h2>Presentación del proyecto</h2>
+<div style="position: relative; width: 100%; max-width: 1100px; margin: 0 auto; aspect-ratio: 1920 / 1109;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://docs.google.com/presentation/d/e/2PACX-1vQi6TJMBm8NS40EgoTwQUt0SisNExqWHjGwtfgxVZMJ9KEw_KMLsg1DhXKo0ZDFohd1Z7s2Q9K_aWct/pubembed?start=false&amp;loop=false&amp;delayms=5000" title="Presentación del proyecto Compuertas inteligentes para Doñana (Google Slides)" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></div>
+<p style="text-align: center;"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQi6TJMBm8NS40EgoTwQUt0SisNExqWHjGwtfgxVZMJ9KEw_KMLsg1DhXKo0ZDFohd1Z7s2Q9K_aWct/pub?start=false&amp;loop=false&amp;delayms=5000" target="_blank" rel="noopener">Abrir la presentación en una ventana nueva</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794396417392-xgiaj8ce2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>¿De qué trata este proyecto?</h2>\n<p>El agua es un recurso escaso, y en espacios como Doñana su gestión marca la diferencia entre un ecosistema sano y uno en peligro. En este proyecto vas a <strong>diseñar, construir y automatizar una compuerta hídrica</strong> que permita controlar el paso del agua de forma eficiente y sostenible.</p>\n<p>Empezarás con un circuito eléctrico y electrónico, pasarás por la neumática y terminarás programando una placa <strong>micro:bit</strong> para que tu compuerta funcione sola. Trabajarás en equipo, como lo hacen los equipos técnicos reales.</p>\n<h2>Tu reto</h2>\n<p><strong>¿Cómo podemos gestionar el agua de forma inteligente, eficiente y sostenible con una compuerta que se accione automáticamente?</strong></p>\n<h2>El proyecto de un vistazo</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<th style=\"width: 25%;\"><strong>Materia y nivel</strong></th>\n<td>Tecnología, 4.º de ESO</td>\n</tr>\n<tr>\n<th><strong>Curso</strong></th>\n<td>2026/2027</td>\n</tr>\n<tr>\n<th><strong>Duración</strong></th>\n<td>23 sesiones prácticas</td>\n</tr>\n<tr>\n<th><strong>Centro de interés</strong></th>\n<td>Gestión sostenible del agua: uso eficiente del agua y de los materiales, y reciclaje</td>\n</tr>\n<tr>\n<th><strong>Lengua</strong></th>\n<td>Español, con inglés técnico funcional (MakeCode micro:bit, simuladores online y hojas de características)</td>\n</tr>\n</tbody>\n</table>\n<h2>Las tres fases</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Fase</strong></th>\n<th><strong>Sesiones</strong></th>\n<th><strong>Trimestre</strong></th>\n<th><strong>Qué harás</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1. Electricidad y Electrónica</td>\n<td>11</td>\n<td>2.º</td>\n<td>Montarás un circuito con motor y finales de carrera para mover la compuerta.</td>\n</tr>\n<tr>\n<td>2. Neumática</td>\n<td>4</td>\n<td>2.º</td>\n<td>Accionarás la compuerta con un cilindro neumático construido con una jeringuilla.</td>\n</tr>\n<tr>\n<td>3. Automatización con micro:bit</td>\n<td>8</td>\n<td>3.er</td>\n<td>Programarás la micro:bit para que la compuerta se abra y se cierre de forma automática.</td>\n</tr>\n</tbody>\n</table>\n<h2>Un proyecto con otras materias</h2>\n<p>Lo que aprendas aquí lo conectarás con <strong>Matemáticas, Física y Química, Inglés, Biología y Geología, y Geografía e Historia</strong>: medir, calcular, entender el ecosistema y su historia, y leer documentación técnica en inglés.</p>\n<h2>Antes de empezar</h2>\n<ul>\n<li>Revisa la página <strong>Protección de datos y derechos digitales</strong>.</li>\n<li>Consulta la <strong>línea temporal</strong> para ver cómo se organizan las sesiones.</li>\n<li>Si algo falla (equipo, conexión o montaje), sigue el protocolo de actuación en 4 pasos: reinicia, comprueba conexiones, prueba una alternativa y avisa al docente.</li>\n</ul>\n<h2>Presentación del proyecto</h2>\n<div style=\"position: relative; width: 100%; max-width: 1100px; margin: 0 auto; aspect-ratio: 1920 / 1109;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://docs.google.com/presentation/d/e/2PACX-1vQi6TJMBm8NS40EgoTwQUt0SisNExqWHjGwtfgxVZMJ9KEw_KMLsg1DhXKo0ZDFohd1Z7s2Q9K_aWct/pubembed?start=false&amp;loop=false&amp;delayms=5000\" title=\"Presentación del proyecto Compuertas inteligentes para Doñana (Google Slides)\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\"></iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://docs.google.com/presentation/d/e/2PACX-1vQi6TJMBm8NS40EgoTwQUt0SisNExqWHjGwtfgxVZMJ9KEw_KMLsg1DhXKo0ZDFohd1Z7s2Q9K_aWct/pub?start=false&amp;loop=false&amp;delayms=5000\" target=\"_blank\" rel=\"noopener\">Abrir la presentación en una ventana nueva</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwc1xfoe-on38oosjo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwc1xfoe-on38oosjo</odePageId>
+      <odeBlockId>block-mwc1xknn-oj0g18syo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc1xfoe-on38oosjo</odePageId>
+          <odeBlockId>block-mwc1xknn-oj0g18syo</odeBlockId>
+          <odeIdeviceId>idevice-1794397485010-d354zuizn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Trabajar en digital también es cuidar de ti y de los demás</h2>
+<p>En este proyecto vas a buscar información, usar simuladores, compartir archivos y quizá subir fotos o vídeos de tu trabajo. Antes de empezar, conviene que conozcas <strong>cómo proteger tus datos personales</strong>, <strong>qué derechos tienes</strong> y <strong>cómo compartir contenidos respetando a sus autores</strong>.</p>
+<p>Todo esto está recogido en el Reglamento General de Protección de Datos (RGPD) y en la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales.</p>
+<h2>Seis consejos para proteger tus datos</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Consejo</strong></th>
+<th><strong>Cómo ponerlo en práctica</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Contraseñas seguras</strong></td>
+<td>Usa contraseñas largas y distintas para cada servicio, y no las compartas con nadie.</td>
+</tr>
+<tr>
+<td><strong>2. Verificación en dos pasos</strong></td>
+<td>Actívala siempre que puedas: aunque alguien conozca tu contraseña, no podrá entrar.</td>
+</tr>
+<tr>
+<td><strong>3. Piensa antes de compartir</strong></td>
+<td>Lo que publicas puede copiarse y quedarse en internet mucho tiempo. Si dudas, no lo subas.</td>
+</tr>
+<tr>
+<td><strong>4. Privacidad de tus perfiles</strong></td>
+<td>Revisa quién puede ver tus publicaciones y limita los datos visibles (centro, domicilio, teléfono, ubicación).</td>
+</tr>
+<tr>
+<td><strong>5. Cuidado con los enlaces y los archivos</strong></td>
+<td>Desconfía de mensajes que piden datos, premios inesperados o urgencias. Comprueba la dirección antes de abrir.</td>
+</tr>
+<tr>
+<td><strong>6. Cierra sesión y actualiza</strong></td>
+<td>Cierra la sesión en equipos compartidos y mantén al día el sistema y las aplicaciones.</td>
+</tr>
+</tbody>
+</table>
+<h2>Seis derechos digitales que debes conocer</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Derecho</strong></th>
+<th><strong>¿Qué significa?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Acceso</strong></td>
+<td>Puedes saber qué datos tuyos tiene una entidad y para qué los usa.</td>
+</tr>
+<tr>
+<td><strong>Rectificación</strong></td>
+<td>Puedes pedir que se corrijan datos incorrectos o incompletos.</td>
+</tr>
+<tr>
+<td><strong>Supresión</strong></td>
+<td>Puedes pedir que borren tus datos cuando ya no sean necesarios o retires tu consentimiento («derecho al olvido»).</td>
+</tr>
+<tr>
+<td><strong>Oposición y limitación</strong></td>
+<td>Puedes oponerte a ciertos usos de tus datos o pedir que se limite su tratamiento.</td>
+</tr>
+<tr>
+<td><strong>Portabilidad</strong></td>
+<td>Puedes pedir una copia de tus datos en un formato que te permita llevarlos a otro servicio.</td>
+</tr>
+<tr>
+<td><strong>Desconexión digital</strong></td>
+<td>Tienes derecho a momentos de descanso sin estar pendiente de pantallas y mensajes. Cuida también tus tiempos de uso.</td>
+</tr>
+</tbody>
+</table>
+<h2>Antes de publicar, pregúntate…</h2>
+<ul>
+<li>¿Salen otras personas? ¿Tengo su permiso para publicarlo?</li>
+<li>¿Aparece algún dato que me identifique (nombre completo, centro, domicilio, matrícula, ubicación)?</li>
+<li>¿Me gustaría que lo vieran mi familia, mi profesorado o un futuro empleador dentro de unos años?</li>
+<li>¿El contenido es mío? Si no lo es, ¿tengo permiso para usarlo y he indicado la autoría y la licencia?</li>
+<li>¿Podré borrarlo si cambio de opinión?</li>
+</ul>
+<h2>¿Y qué pasa con los 14 años?</h2>
+<p>En España, a partir de los 14 años puedes dar tú mismo o misma tu consentimiento para que traten tus datos. Por debajo de esa edad lo deben dar tus padres, madres o tutores legales. Pero esta regla tiene matices:</p>
+<ul>
+<li>Solo se refiere a los casos en que el tratamiento de datos <strong>se basa en el consentimiento</strong>. Hay otras bases legales (una obligación legal, un contrato, una misión de interés público como la actividad educativa) que no dependen de que tú consientas.</li>
+<li>Tiene <strong>excepciones</strong>: cuando una ley exija que los menores estén asistidos por sus representantes legales, la edad de 14 años no basta.</li>
+<li>El consentimiento <strong>se puede retirar</strong> en cualquier momento.</li>
+</ul>
+<p>En este proyecto, si se publican fotos o vídeos en los que aparezcas, se pedirá siempre una autorización específica y podrás retirarla cuando quieras.</p>
+<h2>Dónde pedir ayuda</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th style="width: 30%;"><strong>INCIBE, Línea de Ayuda en Ciberseguridad</strong></th>
+<td>Teléfono gratuito <strong>017</strong>. Asesora sobre acoso, fraudes, suplantación de identidad y otros problemas en internet. Web: <a href="https://www.incibe.es/" target="_blank" rel="noopener">incibe.es</a></td>
+</tr>
+<tr>
+<th><strong>AEPD, Agencia Española de Protección de Datos</strong></th>
+<td>Atiende reclamaciones y consultas sobre el uso de tus datos. Dispone de un canal prioritario para solicitar la retirada de contenidos sensibles publicados sin permiso. Web: <a href="https://www.aepd.es/" target="_blank" rel="noopener">aepd.es</a></td>
+</tr>
+<tr>
+<th><strong>Tu centro</strong></th>
+<td>Habla con tu tutor o tutora, con el equipo directivo o con el docente de la materia si algo te preocupa o te hace sentir incómodo o incómoda.</td>
+</tr>
+</tbody>
+</table>
+<h2>Compartir con licencia: las licencias Creative Commons</h2>
+<p>Cuando uses imágenes, vídeos o audios de otras personas, comprueba con qué licencia se publican e indica siempre la autoría. Estas son las seis licencias Creative Commons:</p>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Licencia</strong></th>
+<th><strong>¿Qué permite?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>CC BY</strong></td>
+<td>Usar y modificar, incluso con fines comerciales, citando la autoría.</td>
+</tr>
+<tr>
+<td><strong>CC BY-SA</strong></td>
+<td>Como la anterior, pero la obra derivada debe compartirse con la misma licencia.</td>
+</tr>
+<tr>
+<td><strong>CC BY-ND</strong></td>
+<td>Compartir citando la autoría, pero sin modificar la obra.</td>
+</tr>
+<tr>
+<td><strong>CC BY-NC</strong></td>
+<td>Usar y modificar citando la autoría, sin fines comerciales.</td>
+</tr>
+<tr>
+<td><strong>CC BY-NC-SA</strong></td>
+<td>Sin fines comerciales y compartiendo las obras derivadas con la misma licencia. <strong>Es la licencia de este proyecto.</strong></td>
+</tr>
+<tr>
+<td><strong>CC BY-NC-ND</strong></td>
+<td>La más restrictiva: sin fines comerciales y sin modificar la obra, citando la autoría.</td>
+</tr>
+</tbody>
+</table>
+<h2>Infografía resumen</h2>
+<p>Este es el resumen en una sola página. Puedes verlo aquí mismo, descargarlo o imprimirlo:</p>
+<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; aspect-ratio: 210 / 297;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://drive.google.com/file/d/1zJDXZX5rA1tKPuk3Y1bN8t8sws-_NkW4/preview" title="Infografía: Protección de datos y derechos digitales (PDF)" allowfullscreen="allowfullscreen"></iframe></div>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1zJDXZX5rA1tKPuk3Y1bN8t8sws-_NkW4/view?usp=sharing" target="_blank" rel="noopener">Abrir o descargar la infografía en una ventana nueva</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794397485010-d354zuizn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Trabajar en digital también es cuidar de ti y de los demás</h2>\n<p>En este proyecto vas a buscar información, usar simuladores, compartir archivos y quizá subir fotos o vídeos de tu trabajo. Antes de empezar, conviene que conozcas <strong>cómo proteger tus datos personales</strong>, <strong>qué derechos tienes</strong> y <strong>cómo compartir contenidos respetando a sus autores</strong>.</p>\n<p>Todo esto está recogido en el Reglamento General de Protección de Datos (RGPD) y en la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales.</p>\n<h2>Seis consejos para proteger tus datos</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Consejo</strong></th>\n<th><strong>Cómo ponerlo en práctica</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1. Contraseñas seguras</strong></td>\n<td>Usa contraseñas largas y distintas para cada servicio, y no las compartas con nadie.</td>\n</tr>\n<tr>\n<td><strong>2. Verificación en dos pasos</strong></td>\n<td>Actívala siempre que puedas: aunque alguien conozca tu contraseña, no podrá entrar.</td>\n</tr>\n<tr>\n<td><strong>3. Piensa antes de compartir</strong></td>\n<td>Lo que publicas puede copiarse y quedarse en internet mucho tiempo. Si dudas, no lo subas.</td>\n</tr>\n<tr>\n<td><strong>4. Privacidad de tus perfiles</strong></td>\n<td>Revisa quién puede ver tus publicaciones y limita los datos visibles (centro, domicilio, teléfono, ubicación).</td>\n</tr>\n<tr>\n<td><strong>5. Cuidado con los enlaces y los archivos</strong></td>\n<td>Desconfía de mensajes que piden datos, premios inesperados o urgencias. Comprueba la dirección antes de abrir.</td>\n</tr>\n<tr>\n<td><strong>6. Cierra sesión y actualiza</strong></td>\n<td>Cierra la sesión en equipos compartidos y mantén al día el sistema y las aplicaciones.</td>\n</tr>\n</tbody>\n</table>\n<h2>Seis derechos digitales que debes conocer</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Derecho</strong></th>\n<th><strong>¿Qué significa?</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Acceso</strong></td>\n<td>Puedes saber qué datos tuyos tiene una entidad y para qué los usa.</td>\n</tr>\n<tr>\n<td><strong>Rectificación</strong></td>\n<td>Puedes pedir que se corrijan datos incorrectos o incompletos.</td>\n</tr>\n<tr>\n<td><strong>Supresión</strong></td>\n<td>Puedes pedir que borren tus datos cuando ya no sean necesarios o retires tu consentimiento («derecho al olvido»).</td>\n</tr>\n<tr>\n<td><strong>Oposición y limitación</strong></td>\n<td>Puedes oponerte a ciertos usos de tus datos o pedir que se limite su tratamiento.</td>\n</tr>\n<tr>\n<td><strong>Portabilidad</strong></td>\n<td>Puedes pedir una copia de tus datos en un formato que te permita llevarlos a otro servicio.</td>\n</tr>\n<tr>\n<td><strong>Desconexión digital</strong></td>\n<td>Tienes derecho a momentos de descanso sin estar pendiente de pantallas y mensajes. Cuida también tus tiempos de uso.</td>\n</tr>\n</tbody>\n</table>\n<h2>Antes de publicar, pregúntate…</h2>\n<ul>\n<li>¿Salen otras personas? ¿Tengo su permiso para publicarlo?</li>\n<li>¿Aparece algún dato que me identifique (nombre completo, centro, domicilio, matrícula, ubicación)?</li>\n<li>¿Me gustaría que lo vieran mi familia, mi profesorado o un futuro empleador dentro de unos años?</li>\n<li>¿El contenido es mío? Si no lo es, ¿tengo permiso para usarlo y he indicado la autoría y la licencia?</li>\n<li>¿Podré borrarlo si cambio de opinión?</li>\n</ul>\n<h2>¿Y qué pasa con los 14 años?</h2>\n<p>En España, a partir de los 14 años puedes dar tú mismo o misma tu consentimiento para que traten tus datos. Por debajo de esa edad lo deben dar tus padres, madres o tutores legales. Pero esta regla tiene matices:</p>\n<ul>\n<li>Solo se refiere a los casos en que el tratamiento de datos <strong>se basa en el consentimiento</strong>. Hay otras bases legales (una obligación legal, un contrato, una misión de interés público como la actividad educativa) que no dependen de que tú consientas.</li>\n<li>Tiene <strong>excepciones</strong>: cuando una ley exija que los menores estén asistidos por sus representantes legales, la edad de 14 años no basta.</li>\n<li>El consentimiento <strong>se puede retirar</strong> en cualquier momento.</li>\n</ul>\n<p>En este proyecto, si se publican fotos o vídeos en los que aparezcas, se pedirá siempre una autorización específica y podrás retirarla cuando quieras.</p>\n<h2>Dónde pedir ayuda</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<th style=\"width: 30%;\"><strong>INCIBE, Línea de Ayuda en Ciberseguridad</strong></th>\n<td>Teléfono gratuito <strong>017</strong>. Asesora sobre acoso, fraudes, suplantación de identidad y otros problemas en internet. Web: <a href=\"https://www.incibe.es/\" target=\"_blank\" rel=\"noopener\">incibe.es</a></td>\n</tr>\n<tr>\n<th><strong>AEPD, Agencia Española de Protección de Datos</strong></th>\n<td>Atiende reclamaciones y consultas sobre el uso de tus datos. Dispone de un canal prioritario para solicitar la retirada de contenidos sensibles publicados sin permiso. Web: <a href=\"https://www.aepd.es/\" target=\"_blank\" rel=\"noopener\">aepd.es</a></td>\n</tr>\n<tr>\n<th><strong>Tu centro</strong></th>\n<td>Habla con tu tutor o tutora, con el equipo directivo o con el docente de la materia si algo te preocupa o te hace sentir incómodo o incómoda.</td>\n</tr>\n</tbody>\n</table>\n<h2>Compartir con licencia: las licencias Creative Commons</h2>\n<p>Cuando uses imágenes, vídeos o audios de otras personas, comprueba con qué licencia se publican e indica siempre la autoría. Estas son las seis licencias Creative Commons:</p>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Licencia</strong></th>\n<th><strong>¿Qué permite?</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>CC BY</strong></td>\n<td>Usar y modificar, incluso con fines comerciales, citando la autoría.</td>\n</tr>\n<tr>\n<td><strong>CC BY-SA</strong></td>\n<td>Como la anterior, pero la obra derivada debe compartirse con la misma licencia.</td>\n</tr>\n<tr>\n<td><strong>CC BY-ND</strong></td>\n<td>Compartir citando la autoría, pero sin modificar la obra.</td>\n</tr>\n<tr>\n<td><strong>CC BY-NC</strong></td>\n<td>Usar y modificar citando la autoría, sin fines comerciales.</td>\n</tr>\n<tr>\n<td><strong>CC BY-NC-SA</strong></td>\n<td>Sin fines comerciales y compartiendo las obras derivadas con la misma licencia. <strong>Es la licencia de este proyecto.</strong></td>\n</tr>\n<tr>\n<td><strong>CC BY-NC-ND</strong></td>\n<td>La más restrictiva: sin fines comerciales y sin modificar la obra, citando la autoría.</td>\n</tr>\n</tbody>\n</table>\n<h2>Infografía resumen</h2>\n<p>Este es el resumen en una sola página. Puedes verlo aquí mismo, descargarlo o imprimirlo:</p>\n<div style=\"position: relative; width: 100%; max-width: 800px; margin: 0 auto; aspect-ratio: 210 / 297;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://drive.google.com/file/d/1zJDXZX5rA1tKPuk3Y1bN8t8sws-_NkW4/preview\" title=\"Infografía: Protección de datos y derechos digitales (PDF)\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1zJDXZX5rA1tKPuk3Y1bN8t8sws-_NkW4/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Abrir o descargar la infografía en una ventana nueva</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwc2dbq1-xry6wt43x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwc2dbq1-xry6wt43x</odePageId>
+      <odeBlockId>block-mwc2ijeu-dwcngnkw7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc2dbq1-xry6wt43x</odePageId>
+          <odeBlockId>block-mwc2ijeu-dwcngnkw7</odeBlockId>
+          <odeIdeviceId>idevice-1794398463172-ebnzkedpm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Tu producto final</h2>
+<p>Al terminar el proyecto tendrás que entregar dos cosas que van de la mano: una <strong>compuerta hídrica que funcione de forma automática</strong> y la <strong>documentación de cómo la has diseñado, construido y programado</strong>.</p>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Entregable</strong></th>
+<th><strong>¿En qué consiste?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. El prototipo</strong></td>
+<td>Una compuerta que se abre y se cierra, primero con un motor y finales de carrera, después con un cilindro neumático, y por último de forma automática con una micro:bit.</td>
+</tr>
+<tr>
+<td><strong>2. El dosier técnico</strong></td>
+<td>Un sitio web de equipo (Google Sites) donde cuentas el proceso: esquemas, programas, pruebas, problemas encontrados y cómo los resolviste.</td>
+</tr>
+<tr>
+<td><strong>3. Tu diario técnico</strong></td>
+<td>Un registro de cada sesión: qué has hecho, qué ha fallado y qué harás en la siguiente. Se lleva en papel o en digital.</td>
+</tr>
+</tbody>
+</table>
+<h2>Qué debe mostrar tu dosier en cada fase</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Fase</strong></th>
+<th><strong>No puede faltar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Electricidad y Electrónica</strong></td>
+<td>Esquema del circuito (primero simulado y después montado), lista de materiales y una foto o vídeo corto del motor parando en los finales de carrera.</td>
+</tr>
+<tr>
+<td><strong>2. Neumática</strong></td>
+<td>Dibujo del montaje con la jeringuilla, explicación de cómo se mueve la compuerta y los problemas que has tenido que resolver.</td>
+</tr>
+<tr>
+<td><strong>3. Automatización con micro:bit</strong></td>
+<td>Captura del programa en MakeCode, explicación de qué hace cada bloque y una prueba final en la que la compuerta funciona sola.</td>
+</tr>
+<tr>
+<td><strong>Cierre</strong></td>
+<td>Conclusiones: qué mejorarías y cómo ayuda tu compuerta a gestionar el agua de forma más eficiente y sostenible.</td>
+</tr>
+</tbody>
+</table>
+<h2>Herramientas que vas a usar</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Herramienta</strong></th>
+<th><strong>¿Para qué?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://makecode.microbit.org/" target="_blank" rel="noopener">MakeCode para micro:bit</a></td>
+<td>Programar la placa con bloques y probar el programa en el simulador antes de cargarlo.</td>
+</tr>
+<tr>
+<td><a href="https://www.tinkercad.com/circuits" target="_blank" rel="noopener">Simulador de circuitos online</a></td>
+<td>Comprobar tus circuitos antes de montarlos, sin riesgo de estropear componentes.</td>
+</tr>
+<tr>
+<td><a href="https://sites.google.com/" target="_blank" rel="noopener">Google Sites</a></td>
+<td>Crear el dosier técnico de tu equipo y compartirlo con el docente.</td>
+</tr>
+</tbody>
+</table>
+<p>Tienes más recursos y tutoriales en la página <strong>Recursos</strong> de este proyecto.</p>
+<h2>Cómo trabajarás</h2>
+<ul>
+<li><strong>En equipo:</strong> cada integrante tiene un rol que irá rotando, y todos y todas participáis en el montaje, en la programación y en la documentación.</li>
+<li><strong>Con el diario técnico:</strong> al acabar cada sesión anota lo que has hecho. Puedes abrir o descargar la <a href="https://drive.google.com/file/d/1nOTTfJIaZImR4ikdlGaVsDCDNwRMPZdZ/view?usp=sharing" target="_blank" rel="noopener">plantilla del diario técnico</a>.</li>
+<li><strong>Si algo falla:</strong> sigue el <a href="https://drive.google.com/file/d/1JeHyJo3YdfnpqVlDP9T5E_E4zoDrGl1z/view?usp=sharing" target="_blank" rel="noopener">protocolo de actuación en 4 pasos</a>: reinicia, comprueba las conexiones, prueba una alternativa y avisa al docente.</li>
+</ul>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin-top: 20px;">
+<div style="flex: 2 1 420px; max-width: 760px;">
+<p style="text-align: center;"><strong>Protocolo de actuación</strong></p>
+<div style="position: relative; width: 100%; aspect-ratio: 297 / 210; overflow: hidden;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://drive.google.com/file/d/1JeHyJo3YdfnpqVlDP9T5E_E4zoDrGl1z/preview" title="Protocolo de actuación en 4 pasos (PDF)" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<div style="flex: 1 1 260px; max-width: 380px;">
+<p style="text-align: center;"><strong>Plantilla del diario técnico</strong></p>
+<div style="position: relative; width: 100%; aspect-ratio: 210 / 297; overflow: hidden;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://drive.google.com/file/d/1nOTTfJIaZImR4ikdlGaVsDCDNwRMPZdZ/preview" title="Plantilla del diario técnico (PDF), primera página" scrolling="no"></iframe></div>
+</div>
+</div>
+<div>
+<h2><br /></h2>
+<h2>Formas de mostrar lo aprendido</h2>
+</div>
+<div>
+<p>Puedes explicar cada fase como mejor se adapte a ti, siempre que se vea cómo funciona tu compuerta y cómo has llegado hasta ahí:</p>
+</div>
+<div>
+<ul>
+<li>Texto y esquemas en el dosier.</li>
+<li>Un vídeo corto con tu voz, o con subtítulos.</li>
+<li>Fotos del proceso con una breve descripción.</li>
+<li>Una demostración en directo ante el grupo.</li>
+</ul>
+</div>
+<div>
+<p>Si necesitas apoyos (guiones de ayuda, más tiempo, ejemplos o una versión simplificada de alguna tarea), pídelos al docente.</p>
+</div>
+<div>
+<h2>Lista de comprobación antes de entregar</h2>
+</div>
+<div>
+<ul>
+<li>☐ Mi compuerta funciona y lo demuestro con una prueba.</li>
+<li>☐ El dosier incluye las tres fases y el cierre.</li>
+<li>☐ Cada esquema, foto o captura lleva una explicación.</li>
+<li>☐ He indicado la autoría y la licencia de todo lo que no es mío.</li>
+<li>☐ No aparecen datos personales ni imágenes de otras personas sin su autorización.</li>
+<li>☐ Mi diario técnico está al día.</li>
+</ul>
+</div>
+<div>
+<h2>Cómo se valorará</h2>
+</div>
+<div>
+<p>Tu trabajo se evaluará con los criterios y los instrumentos que tienes en las páginas <strong>Criterios de evaluación</strong> e <strong>Instrumentos de evaluación</strong>. Léelos antes de empezar para saber qué se espera de ti.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794398463172-ebnzkedpm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Tu producto final</h2>\n<p>Al terminar el proyecto tendrás que entregar dos cosas que van de la mano: una <strong>compuerta hídrica que funcione de forma automática</strong> y la <strong>documentación de cómo la has diseñado, construido y programado</strong>.</p>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Entregable</strong></th>\n<th><strong>¿En qué consiste?</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1. El prototipo</strong></td>\n<td>Una compuerta que se abre y se cierra, primero con un motor y finales de carrera, después con un cilindro neumático, y por último de forma automática con una micro:bit.</td>\n</tr>\n<tr>\n<td><strong>2. El dosier técnico</strong></td>\n<td>Un sitio web de equipo (Google Sites) donde cuentas el proceso: esquemas, programas, pruebas, problemas encontrados y cómo los resolviste.</td>\n</tr>\n<tr>\n<td><strong>3. Tu diario técnico</strong></td>\n<td>Un registro de cada sesión: qué has hecho, qué ha fallado y qué harás en la siguiente. Se lleva en papel o en digital.</td>\n</tr>\n</tbody>\n</table>\n<h2>Qué debe mostrar tu dosier en cada fase</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Fase</strong></th>\n<th><strong>No puede faltar</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1. Electricidad y Electrónica</strong></td>\n<td>Esquema del circuito (primero simulado y después montado), lista de materiales y una foto o vídeo corto del motor parando en los finales de carrera.</td>\n</tr>\n<tr>\n<td><strong>2. Neumática</strong></td>\n<td>Dibujo del montaje con la jeringuilla, explicación de cómo se mueve la compuerta y los problemas que has tenido que resolver.</td>\n</tr>\n<tr>\n<td><strong>3. Automatización con micro:bit</strong></td>\n<td>Captura del programa en MakeCode, explicación de qué hace cada bloque y una prueba final en la que la compuerta funciona sola.</td>\n</tr>\n<tr>\n<td><strong>Cierre</strong></td>\n<td>Conclusiones: qué mejorarías y cómo ayuda tu compuerta a gestionar el agua de forma más eficiente y sostenible.</td>\n</tr>\n</tbody>\n</table>\n<h2>Herramientas que vas a usar</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Herramienta</strong></th>\n<th><strong>¿Para qué?</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><a href=\"https://makecode.microbit.org/\" target=\"_blank\" rel=\"noopener\">MakeCode para micro:bit</a></td>\n<td>Programar la placa con bloques y probar el programa en el simulador antes de cargarlo.</td>\n</tr>\n<tr>\n<td><a href=\"https://www.tinkercad.com/circuits\" target=\"_blank\" rel=\"noopener\">Simulador de circuitos online</a></td>\n<td>Comprobar tus circuitos antes de montarlos, sin riesgo de estropear componentes.</td>\n</tr>\n<tr>\n<td><a href=\"https://sites.google.com/\" target=\"_blank\" rel=\"noopener\">Google Sites</a></td>\n<td>Crear el dosier técnico de tu equipo y compartirlo con el docente.</td>\n</tr>\n</tbody>\n</table>\n<p>Tienes más recursos y tutoriales en la página <strong>Recursos</strong> de este proyecto.</p>\n<h2>Cómo trabajarás</h2>\n<ul>\n<li><strong>En equipo:</strong> cada integrante tiene un rol que irá rotando, y todos y todas participáis en el montaje, en la programación y en la documentación.</li>\n<li><strong>Con el diario técnico:</strong> al acabar cada sesión anota lo que has hecho. Puedes abrir o descargar la <a href=\"https://drive.google.com/file/d/1nOTTfJIaZImR4ikdlGaVsDCDNwRMPZdZ/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">plantilla del diario técnico</a>.</li>\n<li><strong>Si algo falla:</strong> sigue el <a href=\"https://drive.google.com/file/d/1JeHyJo3YdfnpqVlDP9T5E_E4zoDrGl1z/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">protocolo de actuación en 4 pasos</a>: reinicia, comprueba las conexiones, prueba una alternativa y avisa al docente.</li>\n</ul>\n<div style=\"display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin-top: 20px;\">\n<div style=\"flex: 2 1 420px; max-width: 760px;\">\n<p style=\"text-align: center;\"><strong>Protocolo de actuación</strong></p>\n<div style=\"position: relative; width: 100%; aspect-ratio: 297 / 210; overflow: hidden;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://drive.google.com/file/d/1JeHyJo3YdfnpqVlDP9T5E_E4zoDrGl1z/preview\" title=\"Protocolo de actuación en 4 pasos (PDF)\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n</div>\n<div style=\"flex: 1 1 260px; max-width: 380px;\">\n<p style=\"text-align: center;\"><strong>Plantilla del diario técnico</strong></p>\n<div style=\"position: relative; width: 100%; aspect-ratio: 210 / 297; overflow: hidden;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://drive.google.com/file/d/1nOTTfJIaZImR4ikdlGaVsDCDNwRMPZdZ/preview\" title=\"Plantilla del diario técnico (PDF), primera página\" scrolling=\"no\"></iframe></div>\n</div>\n</div>\n<div>\n<h2><br /></h2>\n<h2>Formas de mostrar lo aprendido</h2>\n</div>\n<div>\n<p>Puedes explicar cada fase como mejor se adapte a ti, siempre que se vea cómo funciona tu compuerta y cómo has llegado hasta ahí:</p>\n</div>\n<div>\n<ul>\n<li>Texto y esquemas en el dosier.</li>\n<li>Un vídeo corto con tu voz, o con subtítulos.</li>\n<li>Fotos del proceso con una breve descripción.</li>\n<li>Una demostración en directo ante el grupo.</li>\n</ul>\n</div>\n<div>\n<p>Si necesitas apoyos (guiones de ayuda, más tiempo, ejemplos o una versión simplificada de alguna tarea), pídelos al docente.</p>\n</div>\n<div>\n<h2>Lista de comprobación antes de entregar</h2>\n</div>\n<div>\n<ul>\n<li>☐ Mi compuerta funciona y lo demuestro con una prueba.</li>\n<li>☐ El dosier incluye las tres fases y el cierre.</li>\n<li>☐ Cada esquema, foto o captura lleva una explicación.</li>\n<li>☐ He indicado la autoría y la licencia de todo lo que no es mío.</li>\n<li>☐ No aparecen datos personales ni imágenes de otras personas sin su autorización.</li>\n<li>☐ Mi diario técnico está al día.</li>\n</ul>\n</div>\n<div>\n<h2>Cómo se valorará</h2>\n</div>\n<div>\n<p>Tu trabajo se evaluará con los criterios y los instrumentos que tienes en las páginas <strong>Criterios de evaluación</strong> e <strong>Instrumentos de evaluación</strong>. Léelos antes de empezar para saber qué se espera de ti.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwc0sl5c-4l4zl07td</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Recursos para llevar a cabo el proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Recursos para llevar a cabo el proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Recursos para llevar a cabo el proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Recursos para llevar a cabo el proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwc0sl5c-4l4zl07td</odePageId>
+      <odeBlockId>block-mwc3s4s0-01d745taz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc0sl5c-4l4zl07td</odePageId>
+          <odeBlockId>block-mwc3s4s0-01d745taz</odeBlockId>
+          <odeIdeviceId>idevice-1794415067728-bu197oy47</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><video width="100%" height="150" autoplay="autoplay" loop="loop" muted="" playsinline="">
+  <source src="{{context_path}}/content/resources/hero-circuits.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video HTML5.</video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794415067728-bu197oy47","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><video width=\"100%\" height=\"150\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" playsinline=\"\">\n  <source src=\"{{context_path}}/content/resources/hero-circuits.mp4\" type=\"video/mp4\" />\n  Tu navegador no soporta la etiqueta de video HTML5.</video></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mwc0sl5c-4l4zl07td</odePageId>
+          <odeBlockId>block-mwc3s4s0-01d745taz</odeBlockId>
+          <odeIdeviceId>idevice-1794400590382-saoscciel</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Recursos para el proyecto</h2>
+<p>Buscar información en internet sin criterio hace perder tiempo. Por eso hemos seleccionado, filtrado y organizado los recursos que necesitarás. Hay dos colecciones: una pensada para <strong>ti, como alumno o alumna</strong>, y otra para <strong>el profesorado</strong> que quiera aplicar este proyecto en su aula.</p>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Colección</strong></th>
+<th><strong>¿Para quién?</strong></th>
+<th><strong>Herramienta</strong></th>
+<th><strong>¿Qué encontrarás?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Recursos del alumnado</strong></td>
+<td>Alumnado de 4.º de ESO</td>
+<td>Padlet</td>
+<td>Herramientas, tutoriales, vídeos y recursos que necesitarás durante el proyecto.</td>
+</tr>
+<tr>
+<td><strong>Recursos del profesorado</strong></td>
+<td>Docentes</td>
+<td>Symbaloo</td>
+<td>Herramientas, aplicaciones y tutoriales que se usan en el aula y que pueden servir para aplicar este proyecto.</td>
+</tr>
+</tbody>
+</table>
+<h2>Para el alumnado: tu muro de recursos</h2>
+<p>Aquí tienes los recursos del proyecto, organizados para que los encuentres rápido: programación con micro:bit, simulación de circuitos, neumática, creación del dosier y mucho más. Consúltalo cuando te atasques o quieras ampliar algo.</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; max-width: 1100px; margin: 0 auto; background: #F4F4F4;"><iframe width="100" height="clamp(520, 80vh, 800)" style="display: block; width: 100%; height: clamp(520px, 80vh, 800px); border: 0; padding: 0; margin: 0;" src="https://padlet.com/embed/s024zhp8b12c0k8vjp88" title="Muro de recursos del alumnado (Padlet)" allow="clipboard-write" loading="lazy"></iframe></div>
+<p style="text-align: center;"><a href="https://padlet.com/mhercle833/compuertas-inteligentes-para-donana-s024zhp8b12c0k8vjp88" target="_blank" rel="noopener"><strong>Abrir el Padlet de recursos del alumnado</strong></a></p>
+<h3>Cómo sacarle partido</h3>
+<ul>
+<li><strong>Empieza por lo que necesitas ahora:</strong> usa la fase en la que estés trabajando (electricidad, neumática o micro:bit) para decidir qué mirar.</li>
+<li><strong>Compara antes de elegir:</strong> si hay varias herramientas o tutoriales para lo mismo, prueba dos y quédate con el que te resulte más claro.</li>
+<li><strong>Anota la fuente:</strong> si usas algo de aquí en tu dosier, apunta la autoría y la licencia.</li>
+<li><strong>Cuéntalo:</strong> si encuentras un recurso útil que no está, díselo a tu docente para añadirlo.</li>
+</ul>
+<h2>Para el profesorado: herramientas y recursos de aula</h2>
+<p>Esta colección reúne las herramientas, las aplicaciones y los tutoriales que se usan en el día a día del aula de Tecnología. Está pensada para quien quiera aplicar este proyecto o adaptarlo a su centro.</p>
+<p style="text-align: center;"><a href="https://www.symbaloo.com/shared/AAAACI39dAIAA42AhbENDg==" target="_blank" rel="noopener"><strong>Abrir el Symbaloo de recursos del profesorado</strong></a></p>
+<h3>Cómo utilizarlo</h3>
+<ul>
+<li><strong>Elige por necesidad:</strong> cada baldosa lleva a una herramienta o tutorial concreto.</li>
+<li><strong>Adapta a tu contexto:</strong> comprueba qué herramientas funcionan con los dispositivos y la conexión de tu centro.</li>
+<li><strong>Propón mejoras:</strong> si conoces una alternativa mejor, puedes compartirla con el autor del proyecto.</li>
+</ul>
+<h2>¿Y si algo no se abre?</h2>
+<p>Los enlaces se abren en una ventana nueva. Si alguno de los recursos no carga en tu equipo, sigue el <strong>protocolo de actuación en 4 pasos</strong> de la página «Tu producto final» o avisa a tu docente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794400590382-saoscciel","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Recursos para el proyecto</h2>\n<p>Buscar información en internet sin criterio hace perder tiempo. Por eso hemos seleccionado, filtrado y organizado los recursos que necesitarás. Hay dos colecciones: una pensada para <strong>ti, como alumno o alumna</strong>, y otra para <strong>el profesorado</strong> que quiera aplicar este proyecto en su aula.</p>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Colección</strong></th>\n<th><strong>¿Para quién?</strong></th>\n<th><strong>Herramienta</strong></th>\n<th><strong>¿Qué encontrarás?</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Recursos del alumnado</strong></td>\n<td>Alumnado de 4.º de ESO</td>\n<td>Padlet</td>\n<td>Herramientas, tutoriales, vídeos y recursos que necesitarás durante el proyecto.</td>\n</tr>\n<tr>\n<td><strong>Recursos del profesorado</strong></td>\n<td>Docentes</td>\n<td>Symbaloo</td>\n<td>Herramientas, aplicaciones y tutoriales que se usan en el aula y que pueden servir para aplicar este proyecto.</td>\n</tr>\n</tbody>\n</table>\n<h2>Para el alumnado: tu muro de recursos</h2>\n<p>Aquí tienes los recursos del proyecto, organizados para que los encuentres rápido: programación con micro:bit, simulación de circuitos, neumática, creación del dosier y mucho más. Consúltalo cuando te atasques o quieras ampliar algo.</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; max-width: 1100px; margin: 0 auto; background: #F4F4F4;\"><iframe width=\"100\" height=\"clamp(520, 80vh, 800)\" style=\"display: block; width: 100%; height: clamp(520px, 80vh, 800px); border: 0; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/s024zhp8b12c0k8vjp88\" title=\"Muro de recursos del alumnado (Padlet)\" allow=\"clipboard-write\" loading=\"lazy\"></iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://padlet.com/mhercle833/compuertas-inteligentes-para-donana-s024zhp8b12c0k8vjp88\" target=\"_blank\" rel=\"noopener\"><strong>Abrir el Padlet de recursos del alumnado</strong></a></p>\n<h3>Cómo sacarle partido</h3>\n<ul>\n<li><strong>Empieza por lo que necesitas ahora:</strong> usa la fase en la que estés trabajando (electricidad, neumática o micro:bit) para decidir qué mirar.</li>\n<li><strong>Compara antes de elegir:</strong> si hay varias herramientas o tutoriales para lo mismo, prueba dos y quédate con el que te resulte más claro.</li>\n<li><strong>Anota la fuente:</strong> si usas algo de aquí en tu dosier, apunta la autoría y la licencia.</li>\n<li><strong>Cuéntalo:</strong> si encuentras un recurso útil que no está, díselo a tu docente para añadirlo.</li>\n</ul>\n<h2>Para el profesorado: herramientas y recursos de aula</h2>\n<p>Esta colección reúne las herramientas, las aplicaciones y los tutoriales que se usan en el día a día del aula de Tecnología. Está pensada para quien quiera aplicar este proyecto o adaptarlo a su centro.</p>\n<p style=\"text-align: center;\"><a href=\"https://www.symbaloo.com/shared/AAAACI39dAIAA42AhbENDg==\" target=\"_blank\" rel=\"noopener\"><strong>Abrir el Symbaloo de recursos del profesorado</strong></a></p>\n<h3>Cómo utilizarlo</h3>\n<ul>\n<li><strong>Elige por necesidad:</strong> cada baldosa lleva a una herramienta o tutorial concreto.</li>\n<li><strong>Adapta a tu contexto:</strong> comprueba qué herramientas funcionan con los dispositivos y la conexión de tu centro.</li>\n<li><strong>Propón mejoras:</strong> si conoces una alternativa mejor, puedes compartirla con el autor del proyecto.</li>\n</ul>\n<h2>¿Y si algo no se abre?</h2>\n<p>Los enlaces se abren en una ventana nueva. Si alguno de los recursos no carga en tu equipo, sigue el <strong>protocolo de actuación en 4 pasos</strong> de la página «Tu producto final» o avisa a tu docente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwc0sl5c-4l4zl07td</odePageId>
+      <odeBlockId>block-mwccl5ks-mcc0qgyi3</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc0sl5c-4l4zl07td</odePageId>
+          <odeBlockId>block-mwccl5ks-mcc0qgyi3</odeBlockId>
+          <odeIdeviceId>idevice-1794415381371-93tgxcgd5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwc4jjp5-y1j7823sl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Tu proyecto de un vistazo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Tu proyecto de un vistazo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Tu proyecto de un vistazo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwc4jjp5-y1j7823sl</odePageId>
+      <odeBlockId>block-mwc4joie-zr0xv2j8u</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc4jjp5-y1j7823sl</odePageId>
+          <odeBlockId>block-mwc4joie-zr0xv2j8u</odeBlockId>
+          <odeIdeviceId>idevice-1794401875669-1ssrpuat1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Tu proyecto de un vistazo</h2>
+<p>Esta línea temporal te ayuda a ver, de un solo golpe de vista, <strong>qué vas a hacer, cuándo, con quién y con qué herramientas</strong>. Consúltala cada semana para saber en qué punto estás y qué viene después.</p>
+<h2>La línea temporal</h2>
+<div style="position: relative; width: 100%; max-width: 1100px; margin: 0 auto; aspect-ratio: 16 / 10; min-height: 380px;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; overflow: hidden;" src="https://www.mindmeister.com/app/maps/public_map_shell/4113845595?width=1100&amp;height=690&amp;z=auto" title="Línea temporal del proyecto Compuertas inteligentes para Doñana (mapa mental de MindMeister)" allowfullscreen="allowfullscreen" loading="lazy">Tu navegador no puede mostrar marcos. Visita el mapa en MindMeister.</iframe></div>
+<p style="text-align: center;"><a href="https://www.mindmeister.com/4113845595/compuertas-inteligentes-para-do-ana-organizaci-n-de-la-sda-4-eso-tecnolog-a" target="_blank" rel="noopener">Abrir la línea temporal en una ventana nueva (mejor para verla a pantalla completa)</a></p>
+<h2>Las tres fases, una a una</h2>
+<p>Si prefieres leerlo en texto, o la línea temporal no se ve bien en tu dispositivo, aquí tienes el resumen de cada fase. Pulsa en cada pestaña para verla.</p>
+<div class="exe-fx exe-tabs">
+<h2>Fase 1: Electricidad</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+<div style="flex: 1 1 320px;">
+<h3>Electricidad y Electrónica</h3>
+<table class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<th style="width: 30%;"><strong>Sesiones</strong></th>
+<td>11</td>
+</tr>
+<tr>
+<th><strong>Trimestre</strong></th>
+<td>2.º</td>
+</tr>
+<tr>
+<th><strong>Tareas</strong></th>
+<td>1 a 4</td>
+</tr>
+<tr>
+<th><strong>Qué harás</strong></th>
+<td>Diseñar y simular el circuito, montarlo y comprobar el motor con los finales de carrera.</td>
+</tr>
+<tr>
+<th><strong>Herramientas</strong></th>
+<td>Simulador de circuitos online, material de taller, diario técnico</td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure style="flex: 0 1 320px; margin: 0; text-align: center;"><img src="IMAGEN-FASE-1" alt="Circuito eléctrico con pila, pulsador, motor y finales de carrera montado sobre la mesa del taller" style="max-width: 100%; height: auto;" />
+<figcaption>Autoría y licencia de la imagen.</figcaption>
+</figure>
+</div>
+<h2>Fase 2: Neumática</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+<div style="flex: 1 1 320px;">
+<h3>Neumática</h3>
+<table class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<th style="width: 30%;"><strong>Sesiones</strong></th>
+<td>4</td>
+</tr>
+<tr>
+<th><strong>Trimestre</strong></th>
+<td>2.º</td>
+</tr>
+<tr>
+<th><strong>Tareas</strong></th>
+<td>5</td>
+</tr>
+<tr>
+<th><strong>Qué harás</strong></th>
+<td>Construir y probar el cilindro neumático con jeringuilla para accionar la compuerta.</td>
+</tr>
+<tr>
+<th><strong>Herramientas</strong></th>
+<td>Material de taller, diario técnico</td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure style="flex: 0 1 320px; margin: 0; text-align: center;"><img src="IMAGEN-FASE-2" alt="Dos jeringuillas unidas por un tubo transparente que mueven una pequeña compuerta" style="max-width: 100%; height: auto;" />
+<figcaption>Autoría y licencia de la imagen.</figcaption>
+</figure>
+</div>
+<h2>Fase 3: micro:bit</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+<div style="flex: 1 1 320px;">
+<h3>Automatización con micro:bit</h3>
+<table class="exe-table" style="width: 100%;">
+<tbody>
+<tr>
+<th style="width: 30%;"><strong>Sesiones</strong></th>
+<td>8</td>
+</tr>
+<tr>
+<th><strong>Trimestre</strong></th>
+<td>3.er</td>
+</tr>
+<tr>
+<th><strong>Tareas</strong></th>
+<td>6 a 9</td>
+</tr>
+<tr>
+<th><strong>Qué harás</strong></th>
+<td>Programar la micro:bit para que la compuerta funcione de forma automática y probarla.</td>
+</tr>
+<tr>
+<th><strong>Herramientas</strong></th>
+<td>MakeCode, micro:bit, diario técnico</td>
+</tr>
+</tbody>
+</table>
+</div>
+<figure style="flex: 0 1 320px; margin: 0; text-align: center;"><img src="IMAGEN-FASE-3" alt="Placa micro:bit junto a un programa de bloques de MakeCode que controla la compuerta" style="max-width: 100%; height: auto;" />
+<figcaption>Autoría y licencia de la imagen.</figcaption>
+</figure>
+</div>
+</div>
+<h3>Durante todo el proyecto</h3>
+<p>Las 23 sesiones, entre el 2.º y el 3.er trimestre, incluyen documentar el proceso en el dosier del equipo (Google Sites) y rellenar el diario técnico después de cada sesión.</p>
+<h2>Cómo leer la línea temporal</h2>
+<ul>
+<li><strong>Sigue el orden:</strong> cada fase se apoya en la anterior. No pases a la siguiente sin haber comprobado que lo anterior funciona.</li>
+<li><strong>Fíjate en los agrupamientos:</strong> la línea indica cuándo trabajas en equipo y cuándo individualmente.</li>
+<li><strong>Revisa los espacios y recursos:</strong> verás dónde se trabaja cada sesión y qué necesitas llevar.</li>
+<li><strong>Si te retrasas:</strong> habla con tu docente. Se puede reajustar el ritmo sin perder el hilo del proyecto.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794401875669-1ssrpuat1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Tu proyecto de un vistazo</h2>\n<p>Esta línea temporal te ayuda a ver, de un solo golpe de vista, <strong>qué vas a hacer, cuándo, con quién y con qué herramientas</strong>. Consúltala cada semana para saber en qué punto estás y qué viene después.</p>\n<h2>La línea temporal</h2>\n<div style=\"position: relative; width: 100%; max-width: 1100px; margin: 0 auto; aspect-ratio: 16 / 10; min-height: 380px;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; overflow: hidden;\" src=\"https://www.mindmeister.com/app/maps/public_map_shell/4113845595?width=1100&amp;height=690&amp;z=auto\" title=\"Línea temporal del proyecto Compuertas inteligentes para Doñana (mapa mental de MindMeister)\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\">Tu navegador no puede mostrar marcos. Visita el mapa en MindMeister.</iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://www.mindmeister.com/4113845595/compuertas-inteligentes-para-do-ana-organizaci-n-de-la-sda-4-eso-tecnolog-a\" target=\"_blank\" rel=\"noopener\">Abrir la línea temporal en una ventana nueva (mejor para verla a pantalla completa)</a></p>\n<h2>Las tres fases, una a una</h2>\n<p>Si prefieres leerlo en texto, o la línea temporal no se ve bien en tu dispositivo, aquí tienes el resumen de cada fase. Pulsa en cada pestaña para verla.</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Fase 1: Electricidad</h2>\n<div style=\"display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;\">\n<div style=\"flex: 1 1 320px;\">\n<h3>Electricidad y Electrónica</h3>\n<table class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<th style=\"width: 30%;\"><strong>Sesiones</strong></th>\n<td>11</td>\n</tr>\n<tr>\n<th><strong>Trimestre</strong></th>\n<td>2.º</td>\n</tr>\n<tr>\n<th><strong>Tareas</strong></th>\n<td>1 a 4</td>\n</tr>\n<tr>\n<th><strong>Qué harás</strong></th>\n<td>Diseñar y simular el circuito, montarlo y comprobar el motor con los finales de carrera.</td>\n</tr>\n<tr>\n<th><strong>Herramientas</strong></th>\n<td>Simulador de circuitos online, material de taller, diario técnico</td>\n</tr>\n</tbody>\n</table>\n</div>\n<figure style=\"flex: 0 1 320px; margin: 0; text-align: center;\"><img src=\"IMAGEN-FASE-1\" alt=\"Circuito eléctrico con pila, pulsador, motor y finales de carrera montado sobre la mesa del taller\" style=\"max-width: 100%; height: auto;\" />\n<figcaption>Autoría y licencia de la imagen.</figcaption>\n</figure>\n</div>\n<h2>Fase 2: Neumática</h2>\n<div style=\"display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;\">\n<div style=\"flex: 1 1 320px;\">\n<h3>Neumática</h3>\n<table class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<th style=\"width: 30%;\"><strong>Sesiones</strong></th>\n<td>4</td>\n</tr>\n<tr>\n<th><strong>Trimestre</strong></th>\n<td>2.º</td>\n</tr>\n<tr>\n<th><strong>Tareas</strong></th>\n<td>5</td>\n</tr>\n<tr>\n<th><strong>Qué harás</strong></th>\n<td>Construir y probar el cilindro neumático con jeringuilla para accionar la compuerta.</td>\n</tr>\n<tr>\n<th><strong>Herramientas</strong></th>\n<td>Material de taller, diario técnico</td>\n</tr>\n</tbody>\n</table>\n</div>\n<figure style=\"flex: 0 1 320px; margin: 0; text-align: center;\"><img src=\"IMAGEN-FASE-2\" alt=\"Dos jeringuillas unidas por un tubo transparente que mueven una pequeña compuerta\" style=\"max-width: 100%; height: auto;\" />\n<figcaption>Autoría y licencia de la imagen.</figcaption>\n</figure>\n</div>\n<h2>Fase 3: micro:bit</h2>\n<div style=\"display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;\">\n<div style=\"flex: 1 1 320px;\">\n<h3>Automatización con micro:bit</h3>\n<table class=\"exe-table\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<th style=\"width: 30%;\"><strong>Sesiones</strong></th>\n<td>8</td>\n</tr>\n<tr>\n<th><strong>Trimestre</strong></th>\n<td>3.er</td>\n</tr>\n<tr>\n<th><strong>Tareas</strong></th>\n<td>6 a 9</td>\n</tr>\n<tr>\n<th><strong>Qué harás</strong></th>\n<td>Programar la micro:bit para que la compuerta funcione de forma automática y probarla.</td>\n</tr>\n<tr>\n<th><strong>Herramientas</strong></th>\n<td>MakeCode, micro:bit, diario técnico</td>\n</tr>\n</tbody>\n</table>\n</div>\n<figure style=\"flex: 0 1 320px; margin: 0; text-align: center;\"><img src=\"IMAGEN-FASE-3\" alt=\"Placa micro:bit junto a un programa de bloques de MakeCode que controla la compuerta\" style=\"max-width: 100%; height: auto;\" />\n<figcaption>Autoría y licencia de la imagen.</figcaption>\n</figure>\n</div>\n</div>\n<h3>Durante todo el proyecto</h3>\n<p>Las 23 sesiones, entre el 2.º y el 3.er trimestre, incluyen documentar el proceso en el dosier del equipo (Google Sites) y rellenar el diario técnico después de cada sesión.</p>\n<h2>Cómo leer la línea temporal</h2>\n<ul>\n<li><strong>Sigue el orden:</strong> cada fase se apoya en la anterior. No pases a la siguiente sin haber comprobado que lo anterior funciona.</li>\n<li><strong>Fíjate en los agrupamientos:</strong> la línea indica cuándo trabajas en equipo y cuándo individualmente.</li>\n<li><strong>Revisa los espacios y recursos:</strong> verás dónde se trabaja cada sesión y qué necesitas llevar.</li>\n<li><strong>Si te retrasas:</strong> habla con tu docente. Se puede reajustar el ritmo sin perder el hilo del proyecto.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwc51osn-nb4ferlaf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwc51osn-nb4ferlaf</odePageId>
+      <odeBlockId>block-mwc51umj-4rrzhidmd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc51osn-nb4ferlaf</odePageId>
+          <odeBlockId>block-mwc51umj-4rrzhidmd</odeBlockId>
+          <odeIdeviceId>idevice-1794402723403-0q3ni8mpu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>¿Qué se va a valorar y en qué tarea?</h2>
+<p>Cada tarea del proyecto se relaciona con uno o varios <strong>criterios de evaluación</strong> de la materia. Así sabes desde el principio <strong>qué se espera de ti</strong>, cuánto tiempo tendrás, con quién trabajarás y qué herramienta puedes usar.</p>
+<h2>Las nueve tareas del proyecto</h2>
+<div style="overflow-x: auto;">
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Tarea</strong></th>
+<th><strong>Criterio</strong></th>
+<th><strong>Agrupamiento</strong></th>
+<th><strong>Tiempo</strong></th>
+<th><strong>Herramienta</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.</strong> Analizar el reto: ¿cómo se gestiona el agua en las marismas de Doñana? Investigar con fuentes fiables y registrar las fuentes y sus licencias.</td>
+<td>1.1</td>
+<td>Gran grupo y, después, equipos de 3-4</td>
+<td>1 sesión</td>
+<td>Buscador, Symbaloo (recopilación de fuentes)</td>
+</tr>
+<tr>
+<td><strong>2.</strong> Planificar el proyecto en equipo: reparto de roles, calendario y primeras ideas de diseño de la compuerta.</td>
+<td>1.2</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>1 sesión</td>
+<td>Documento compartido y diario técnico digital</td>
+</tr>
+<tr>
+<td><strong>3.</strong> Diseñar y simular el circuito del motor con finales de carrera, usando esquemas y simbología normalizada.</td>
+<td>4.1 y 3.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>3 sesiones</td>
+<td>Simulador de circuitos online TinkerCAD Circuits</td>
+</tr>
+<tr>
+<td><strong>4.</strong> Montar el circuito en el taller, comprobar su funcionamiento y anotar las incidencias en el diario técnico.</td>
+<td>2.2</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>6 sesiones</td>
+<td>Material del taller y diario técnico (con fotos)</td>
+</tr>
+<tr>
+<td><strong>5.</strong> Diseñar, simular y montar el accionamiento neumático con un cilindro de jeringuilla.</td>
+<td>4.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>4 sesiones</td>
+<td>Simulador online Fluidsim y material del taller</td>
+</tr>
+<tr>
+<td><strong>6.</strong> Programar en bloques la compuerta con micro:bit y probarla en el simulador (documentación en inglés).</td>
+<td>4.1 y 5.1</td>
+<td>Parejas dentro del equipo</td>
+<td>4 sesiones</td>
+<td>MakeCode para micro:bit (editor y simulador)</td>
+</tr>
+<tr>
+<td><strong>7.</strong> Integrar y probar la compuerta completa, depurar fallos con el protocolo de 4 pasos y repetir las pruebas hasta validarla.</td>
+<td>1.2 y 4.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>2 sesiones</td>
+<td>MakeCode, micro:bit y diario técnico</td>
+</tr>
+<tr>
+<td><strong>8.</strong> Analizar la sostenibilidad de la compuerta: uso eficiente del agua, elección de materiales, reciclaje y consumo de los dispositivos.</td>
+<td>6.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>1 sesión</td>
+<td>Documento compartido o Padlet</td>
+</tr>
+<tr>
+<td><strong>9.</strong> Presentar y difundir el proyecto con un lenguaje inclusivo y técnico, citando las imágenes con su licencia, y hacer la autoevaluación y la coevaluación.</td>
+<td>3.2</td>
+<td>Equipos y gran grupo</td>
+<td>1 sesión</td>
+<td>Google Sites (o presentación) y formulario digital</td>
+</tr>
+<tr>
+<th colspan="3"><strong>Total</strong></th>
+<td colspan="2"><strong>23 sesiones</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Cada criterio, en qué tareas se trabaja</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Criterio</strong></th>
+<th><strong>Tareas en las que se valora</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.1</strong></td>
+<td>Tarea 1</td>
+</tr>
+<tr>
+<td><strong>1.2</strong></td>
+<td>Tareas 2 y 7</td>
+</tr>
+<tr>
+<td><strong>2.2</strong></td>
+<td>Tarea 4</td>
+</tr>
+<tr>
+<td><strong>3.1</strong></td>
+<td>Tarea 3</td>
+</tr>
+<tr>
+<td><strong>3.2</strong></td>
+<td>Tarea 9</td>
+</tr>
+<tr>
+<td><strong>4.1</strong></td>
+<td>Tareas 3, 5, 6 y 7</td>
+</tr>
+<tr>
+<td><strong>5.1</strong></td>
+<td>Tarea 6</td>
+</tr>
+<tr>
+<td><strong>6.1</strong></td>
+<td>Tarea 8</td>
+</tr>
+</tbody>
+</table>
+<h2>Documento completo</h2>
+<p>Este es el documento original con la asociación entre tareas y criterios de evaluación:</p>
+<div style="position: relative; width: 100%; max-width: 1000px; margin: 0 auto; aspect-ratio: 4 / 3; min-height: 420px;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://docs.google.com/document/d/1jepLCs5mV1ipku9qLnrBscil8688t-U9JjntzSkIuZQ/edit?usp=sharing" title="Asociación de tareas a criterios de evaluación (Google Docs)" loading="lazy"></iframe></div>
+<p style="text-align: center;"><a href="ENLACE-PUBLICADO" target="_blank" rel="noopener">Abrir el documento en una ventana nueva</a></p>
+<h2>Cómo usar esta información</h2>
+<ul>
+<li><strong>Antes de empezar una tarea,</strong> mira qué criterio se valora para saber en qué fijarte.</li>
+<li><strong>Cuando termines,</strong> revisa tu trabajo con el criterio delante: ¿lo has cumplido?</li>
+<li><strong>Si tienes dudas,</strong> consúltalas con tu docente antes de entregar.</li>
+<li><strong>Si algo falla en el aula,</strong> sigue el protocolo de actuación en 4 pasos: reinicia, comprueba las conexiones, prueba una alternativa y avisa al docente.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794402723403-0q3ni8mpu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>¿Qué se va a valorar y en qué tarea?</h2>\n<p>Cada tarea del proyecto se relaciona con uno o varios <strong>criterios de evaluación</strong> de la materia. Así sabes desde el principio <strong>qué se espera de ti</strong>, cuánto tiempo tendrás, con quién trabajarás y qué herramienta puedes usar.</p>\n<h2>Las nueve tareas del proyecto</h2>\n<div style=\"overflow-x: auto;\">\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Tarea</strong></th>\n<th><strong>Criterio</strong></th>\n<th><strong>Agrupamiento</strong></th>\n<th><strong>Tiempo</strong></th>\n<th><strong>Herramienta</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1.</strong> Analizar el reto: ¿cómo se gestiona el agua en las marismas de Doñana? Investigar con fuentes fiables y registrar las fuentes y sus licencias.</td>\n<td>1.1</td>\n<td>Gran grupo y, después, equipos de 3-4</td>\n<td>1 sesión</td>\n<td>Buscador, Symbaloo (recopilación de fuentes)</td>\n</tr>\n<tr>\n<td><strong>2.</strong> Planificar el proyecto en equipo: reparto de roles, calendario y primeras ideas de diseño de la compuerta.</td>\n<td>1.2</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>1 sesión</td>\n<td>Documento compartido y diario técnico digital</td>\n</tr>\n<tr>\n<td><strong>3.</strong> Diseñar y simular el circuito del motor con finales de carrera, usando esquemas y simbología normalizada.</td>\n<td>4.1 y 3.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>3 sesiones</td>\n<td>Simulador de circuitos online TinkerCAD Circuits</td>\n</tr>\n<tr>\n<td><strong>4.</strong> Montar el circuito en el taller, comprobar su funcionamiento y anotar las incidencias en el diario técnico.</td>\n<td>2.2</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>6 sesiones</td>\n<td>Material del taller y diario técnico (con fotos)</td>\n</tr>\n<tr>\n<td><strong>5.</strong> Diseñar, simular y montar el accionamiento neumático con un cilindro de jeringuilla.</td>\n<td>4.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>4 sesiones</td>\n<td>Simulador online Fluidsim y material del taller</td>\n</tr>\n<tr>\n<td><strong>6.</strong> Programar en bloques la compuerta con micro:bit y probarla en el simulador (documentación en inglés).</td>\n<td>4.1 y 5.1</td>\n<td>Parejas dentro del equipo</td>\n<td>4 sesiones</td>\n<td>MakeCode para micro:bit (editor y simulador)</td>\n</tr>\n<tr>\n<td><strong>7.</strong> Integrar y probar la compuerta completa, depurar fallos con el protocolo de 4 pasos y repetir las pruebas hasta validarla.</td>\n<td>1.2 y 4.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>2 sesiones</td>\n<td>MakeCode, micro:bit y diario técnico</td>\n</tr>\n<tr>\n<td><strong>8.</strong> Analizar la sostenibilidad de la compuerta: uso eficiente del agua, elección de materiales, reciclaje y consumo de los dispositivos.</td>\n<td>6.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>1 sesión</td>\n<td>Documento compartido o Padlet</td>\n</tr>\n<tr>\n<td><strong>9.</strong> Presentar y difundir el proyecto con un lenguaje inclusivo y técnico, citando las imágenes con su licencia, y hacer la autoevaluación y la coevaluación.</td>\n<td>3.2</td>\n<td>Equipos y gran grupo</td>\n<td>1 sesión</td>\n<td>Google Sites (o presentación) y formulario digital</td>\n</tr>\n<tr>\n<th colspan=\"3\"><strong>Total</strong></th>\n<td colspan=\"2\"><strong>23 sesiones</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n<h2>Cada criterio, en qué tareas se trabaja</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Criterio</strong></th>\n<th><strong>Tareas en las que se valora</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1.1</strong></td>\n<td>Tarea 1</td>\n</tr>\n<tr>\n<td><strong>1.2</strong></td>\n<td>Tareas 2 y 7</td>\n</tr>\n<tr>\n<td><strong>2.2</strong></td>\n<td>Tarea 4</td>\n</tr>\n<tr>\n<td><strong>3.1</strong></td>\n<td>Tarea 3</td>\n</tr>\n<tr>\n<td><strong>3.2</strong></td>\n<td>Tarea 9</td>\n</tr>\n<tr>\n<td><strong>4.1</strong></td>\n<td>Tareas 3, 5, 6 y 7</td>\n</tr>\n<tr>\n<td><strong>5.1</strong></td>\n<td>Tarea 6</td>\n</tr>\n<tr>\n<td><strong>6.1</strong></td>\n<td>Tarea 8</td>\n</tr>\n</tbody>\n</table>\n<h2>Documento completo</h2>\n<p>Este es el documento original con la asociación entre tareas y criterios de evaluación:</p>\n<div style=\"position: relative; width: 100%; max-width: 1000px; margin: 0 auto; aspect-ratio: 4 / 3; min-height: 420px;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://docs.google.com/document/d/1jepLCs5mV1ipku9qLnrBscil8688t-U9JjntzSkIuZQ/edit?usp=sharing\" title=\"Asociación de tareas a criterios de evaluación (Google Docs)\" loading=\"lazy\"></iframe></div>\n<p style=\"text-align: center;\"><a href=\"ENLACE-PUBLICADO\" target=\"_blank\" rel=\"noopener\">Abrir el documento en una ventana nueva</a></p>\n<h2>Cómo usar esta información</h2>\n<ul>\n<li><strong>Antes de empezar una tarea,</strong> mira qué criterio se valora para saber en qué fijarte.</li>\n<li><strong>Cuando termines,</strong> revisa tu trabajo con el criterio delante: ¿lo has cumplido?</li>\n<li><strong>Si tienes dudas,</strong> consúltalas con tu docente antes de entregar.</li>\n<li><strong>Si algo falla en el aula,</strong> sigue el protocolo de actuación en 4 pasos: reinicia, comprueba las conexiones, prueba una alternativa y avisa al docente.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwcb6wkc-t945bwgqi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwcb6wkc-t945bwgqi</odePageId>
+      <odeBlockId>block-mwcb7141-dcqi4loap</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwcb6wkc-t945bwgqi</odePageId>
+          <odeBlockId>block-mwcb7141-dcqi4loap</odeBlockId>
+          <odeIdeviceId>idevice-1794413042783-zxk82jlqo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>¿Cómo se evaluará tu trabajo?</h2>
+<p>La evaluación de este proyecto es <strong>competencial</strong>: se valora <strong>lo que has conseguido y cómo lo has conseguido</strong>. La nota es solo el resultado de esa valoración, no al revés. Se evalúan <strong>ocho criterios</strong> de Tecnología de 4.º de ESO, los mismos de la página anterior, con tres instrumentos distintos. Además, tú también participas con la autoevaluación y la coevaluación.</p>
+<h2>Los tres instrumentos de un vistazo</h2>
+<div style="overflow-x: auto;">
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Instrumento</strong></th>
+<th><strong>Criterios que evalúa</strong></th>
+<th><strong>¿Cuándo?</strong></th>
+<th><strong>¿Quién evalúa?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Cuestionarios de fase</strong> (Google Formularios)</td>
+<td>2.2, 3.1, 4.1 y 6.1</td>
+<td>Uno al cerrar cada fase, en una sesión de 20-25 minutos</td>
+<td>Autocorrección con retroalimentación y revisión del docente en las preguntas abiertas</td>
+</tr>
+<tr>
+<td><strong>2. Rúbrica del producto final</strong> (la compuerta automatizada)</td>
+<td>1.1, 2.2, 3.2, 4.1, 5.1 y 6.1</td>
+<td>Revisiones parciales al cerrar las fases 1 y 2, autoevaluación intermedia en la fase 3 y demostración final</td>
+<td>Autoevaluación, coevaluación entre equipos y docente</td>
+</tr>
+<tr>
+<td><strong>3. Lista de cotejo de proceso y trabajo en equipo</strong></td>
+<td>1.2, 3.1 y 5.1</td>
+<td>Durante las sesiones prácticas y al cerrar cada fase</td>
+<td>Observación del docente y autoevaluación del equipo</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>El peso de cada instrumento es proporcional al número de criterios que evalúa. Algunos criterios se evalúan con dos instrumentos para poder contrastar los resultados.</p>
+<h2>¿Qué instrumento evalúa cada criterio?</h2>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Criterio</strong></th>
+<th><strong>Qué se valora</strong></th>
+<th><strong>Cuestionarios</strong></th>
+<th><strong>Rúbrica</strong></th>
+<th><strong>Lista de cotejo</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.1</strong></td>
+<td>Idear y planificar</td>
+<td></td>
+<td>✔</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>1.2</strong></td>
+<td>Gestión colaborativa e iterativa</td>
+<td></td>
+<td></td>
+<td>✔</td>
+</tr>
+<tr>
+<td><strong>2.2</strong></td>
+<td>Fabricar</td>
+<td>✔</td>
+<td>✔</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>3.1</strong></td>
+<td>Comunicación y trabajo en equipo</td>
+<td>✔</td>
+<td></td>
+<td>✔</td>
+</tr>
+<tr>
+<td><strong>3.2</strong></td>
+<td>Presentar y difundir</td>
+<td></td>
+<td>✔</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>4.1</strong></td>
+<td>Sistemas automáticos</td>
+<td>✔</td>
+<td>✔</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>5.1</strong></td>
+<td>Herramientas digitales y autonomía</td>
+<td></td>
+<td>✔</td>
+<td>✔</td>
+</tr>
+<tr>
+<td><strong>6.1</strong></td>
+<td>Uso responsable y sostenibilidad</td>
+<td>✔</td>
+<td>✔</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>Conoce cada instrumento</h2>
+<div class="exe-fx exe-tabs">
+<h2>1. Cuestionarios</h2>
+<h3>Cuestionarios de fase</h3>
+<p>Son <strong>tres cuestionarios de 15 preguntas</strong>, uno al terminar cada fase. Mezclan test, verdadero o falso, emparejar y respuestas abiertas breves. Se hacen con tu cuenta del centro en Google Classroom, con un solo intento y con el orden de preguntas y respuestas aleatorio. Al terminar, recibes retroalimentación de cada pregunta.</p>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Cuestionario</strong></th>
+<th><strong>Qué comprobarás</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Fase 1. Electricidad y Electrónica</strong></td>
+<td>El circuito del motor, el final de carrera y el sentido de giro; símbolos y esquemas; montaje seguro y ahorro de energía.</td>
+</tr>
+<tr>
+<td><strong>Fase 2. Neumática</strong></td>
+<td>Cómo transmite la fuerza el cilindro de jeringuilla y el efecto de las fugas; nombres técnicos; montaje sin fugas y uso eficiente de recursos.</td>
+</tr>
+<tr>
+<td><strong>Fase 3. Automatización con micro:bit</strong></td>
+<td>Estructuras de programación y sistema de control; inglés técnico y diagramas de flujo; conexiones del montaje real; automatización para un uso eficiente del agua.</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLScngsfDQmAwilmqcvkIP2RwQQUhszdr-dUI0Keh3JY1KOQZ9Q/viewform" target="_blank" rel="noopener">Ver el cuestionario de ejemplo de la Fase 1 (ventana nueva)</a></p>
+<p><em>Los cuestionarios reales se realizan en clase a través de Google Classroom.</em></p>
+<h2>2. Rúbrica</h2>
+<h3>Rúbrica del producto final</h3>
+<p>La rúbrica te dice <strong>desde el principio qué significa un trabajo excelente</strong>. Tiene seis apartados, uno por criterio, y cuatro niveles: Excelente (10), Bien (7,5), En proceso (5) e Insuficiente (2,5). Se te entrega impresa y, al empezar la fase 3, ajustamos juntos la redacción de uno de los apartados para que la sientas tuya.</p>
+<div style="position: relative; width: 100%; max-width: 1100px; margin: 0 auto; aspect-ratio: 297 / 210; min-height: 340px;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://drive.google.com/file/d/1yRw8zdtJblGRiwUIcjbvm25kyHtaB2l3/preview" title="Rúbrica de evaluación de la compuerta automatizada (PDF)" loading="lazy"></iframe></div>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1yRw8zdtJblGRiwUIcjbvm25kyHtaB2l3/view" target="_blank" rel="noopener">Abrir o descargar la rúbrica en una ventana nueva</a></p>
+<h2>3. Lista de cotejo</h2>
+<h3>Lista de cotejo de proceso y trabajo en equipo</h3>
+<p>Recoge lo que ocurre <strong>durante las sesiones</strong> y que ni el cuestionario ni el producto final reflejan: cómo trabajáis, cómo os comunicáis y cómo resolvéis los problemas. Se valora con tres niveles: <strong>No</strong> (0), <strong>En proceso</strong> (5) y <strong>Sí</strong> (10). Al cerrar cada fase, tu equipo rellena la misma lista y la contrastamos con lo observado.</p>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Aspecto que se observa</strong></th>
+<th><strong>Criterio</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Propones mejoras tras probar y repites el ciclo de prueba, error y mejora.</td>
+<td>1.2</td>
+</tr>
+<tr>
+<td>Repartes roles y tomas decisiones en el equipo, aportando conocimientos de otras materias.</td>
+<td>1.2</td>
+</tr>
+<tr>
+<td>Te comunicas y colaboras de forma asertiva con las herramientas digitales del equipo.</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>Registras el trabajo en el diario técnico con vocabulario, símbolos y esquemas técnicos adecuados.</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>Aplicas el protocolo de actuación ante un fallo antes de pedir ayuda.</td>
+<td>5.1</td>
+</tr>
+<tr>
+<td>Usas y configuras con autonomía MakeCode, el simulador y la carpeta compartida.</td>
+<td>5.1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Documento completo de los instrumentos</h2>
+<p>Aquí tienes la descripción detallada de los tres instrumentos, con el banco de preguntas de los cuestionarios:</p>
+<div style="position: relative; width: 100%; max-width: 1000px; margin: 0 auto; aspect-ratio: 3 / 4; min-height: 500px;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://drive.google.com/file/d/1Lb7oBUYd3GQaXXiapV0GD-ovqL83-TlS/preview" title="8.1 Instrumentos de evaluación (PDF)" loading="lazy"></iframe></div>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1Lb7oBUYd3GQaXXiapV0GD-ovqL83-TlS/view" target="_blank" rel="noopener">Abrir el documento en una ventana nueva</a></p>
+<h2>Cómo sacarle partido</h2>
+<ul>
+<li><strong>Antes de empezar:</strong> lee la rúbrica y fíjate en qué diferencia «Excelente» de «Bien» en cada apartado.</li>
+<li><strong>Mientras trabajas:</strong> contrasta tu avance con la rúbrica y anota en tu diario técnico lo que debes mejorar.</li>
+<li><strong>Después de cada cuestionario:</strong> repasa las preguntas falladas con la retroalimentación. Si muchas personas fallan la misma, se refuerza en clase.</li>
+<li><strong>En la autoevaluación y la coevaluación:</strong> sé sincero o sincera y justifica tu valoración. Sirven para aprender, no para castigar.</li>
+</ul>
+<h2>Apoyos y protección de tus datos</h2>
+<ul>
+<li>Si necesitas <strong>más tiempo</strong> o que se te <strong>lean las preguntas en voz alta</strong>, pídelo: no cambia lo que se evalúa.</li>
+<li>Si no tienes dispositivo o falla la conexión, puedes hacer el cuestionario <strong>en papel</strong>.</li>
+<li>Los cuestionarios solo usan las cuentas del centro, no recogen datos innecesarios y los resultados solo los ve el docente.</li>
+<li>Si te ausentas, el aspecto observado queda sin valorar y se recupera en la sesión siguiente, <strong>sin penalización</strong>.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794413042783-zxk82jlqo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>¿Cómo se evaluará tu trabajo?</h2>\n<p>La evaluación de este proyecto es <strong>competencial</strong>: se valora <strong>lo que has conseguido y cómo lo has conseguido</strong>. La nota es solo el resultado de esa valoración, no al revés. Se evalúan <strong>ocho criterios</strong> de Tecnología de 4.º de ESO, los mismos de la página anterior, con tres instrumentos distintos. Además, tú también participas con la autoevaluación y la coevaluación.</p>\n<h2>Los tres instrumentos de un vistazo</h2>\n<div style=\"overflow-x: auto;\">\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Instrumento</strong></th>\n<th><strong>Criterios que evalúa</strong></th>\n<th><strong>¿Cuándo?</strong></th>\n<th><strong>¿Quién evalúa?</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1. Cuestionarios de fase</strong> (Google Formularios)</td>\n<td>2.2, 3.1, 4.1 y 6.1</td>\n<td>Uno al cerrar cada fase, en una sesión de 20-25 minutos</td>\n<td>Autocorrección con retroalimentación y revisión del docente en las preguntas abiertas</td>\n</tr>\n<tr>\n<td><strong>2. Rúbrica del producto final</strong> (la compuerta automatizada)</td>\n<td>1.1, 2.2, 3.2, 4.1, 5.1 y 6.1</td>\n<td>Revisiones parciales al cerrar las fases 1 y 2, autoevaluación intermedia en la fase 3 y demostración final</td>\n<td>Autoevaluación, coevaluación entre equipos y docente</td>\n</tr>\n<tr>\n<td><strong>3. Lista de cotejo de proceso y trabajo en equipo</strong></td>\n<td>1.2, 3.1 y 5.1</td>\n<td>Durante las sesiones prácticas y al cerrar cada fase</td>\n<td>Observación del docente y autoevaluación del equipo</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>El peso de cada instrumento es proporcional al número de criterios que evalúa. Algunos criterios se evalúan con dos instrumentos para poder contrastar los resultados.</p>\n<h2>¿Qué instrumento evalúa cada criterio?</h2>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Criterio</strong></th>\n<th><strong>Qué se valora</strong></th>\n<th><strong>Cuestionarios</strong></th>\n<th><strong>Rúbrica</strong></th>\n<th><strong>Lista de cotejo</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1.1</strong></td>\n<td>Idear y planificar</td>\n<td></td>\n<td>✔</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>1.2</strong></td>\n<td>Gestión colaborativa e iterativa</td>\n<td></td>\n<td></td>\n<td>✔</td>\n</tr>\n<tr>\n<td><strong>2.2</strong></td>\n<td>Fabricar</td>\n<td>✔</td>\n<td>✔</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>3.1</strong></td>\n<td>Comunicación y trabajo en equipo</td>\n<td>✔</td>\n<td></td>\n<td>✔</td>\n</tr>\n<tr>\n<td><strong>3.2</strong></td>\n<td>Presentar y difundir</td>\n<td></td>\n<td>✔</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>4.1</strong></td>\n<td>Sistemas automáticos</td>\n<td>✔</td>\n<td>✔</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>5.1</strong></td>\n<td>Herramientas digitales y autonomía</td>\n<td></td>\n<td>✔</td>\n<td>✔</td>\n</tr>\n<tr>\n<td><strong>6.1</strong></td>\n<td>Uso responsable y sostenibilidad</td>\n<td>✔</td>\n<td>✔</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Conoce cada instrumento</h2>\n<div class=\"exe-fx exe-tabs\">\n<h2>1. Cuestionarios</h2>\n<h3>Cuestionarios de fase</h3>\n<p>Son <strong>tres cuestionarios de 15 preguntas</strong>, uno al terminar cada fase. Mezclan test, verdadero o falso, emparejar y respuestas abiertas breves. Se hacen con tu cuenta del centro en Google Classroom, con un solo intento y con el orden de preguntas y respuestas aleatorio. Al terminar, recibes retroalimentación de cada pregunta.</p>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Cuestionario</strong></th>\n<th><strong>Qué comprobarás</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Fase 1. Electricidad y Electrónica</strong></td>\n<td>El circuito del motor, el final de carrera y el sentido de giro; símbolos y esquemas; montaje seguro y ahorro de energía.</td>\n</tr>\n<tr>\n<td><strong>Fase 2. Neumática</strong></td>\n<td>Cómo transmite la fuerza el cilindro de jeringuilla y el efecto de las fugas; nombres técnicos; montaje sin fugas y uso eficiente de recursos.</td>\n</tr>\n<tr>\n<td><strong>Fase 3. Automatización con micro:bit</strong></td>\n<td>Estructuras de programación y sistema de control; inglés técnico y diagramas de flujo; conexiones del montaje real; automatización para un uso eficiente del agua.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLScngsfDQmAwilmqcvkIP2RwQQUhszdr-dUI0Keh3JY1KOQZ9Q/viewform\" target=\"_blank\" rel=\"noopener\">Ver el cuestionario de ejemplo de la Fase 1 (ventana nueva)</a></p>\n<p><em>Los cuestionarios reales se realizan en clase a través de Google Classroom.</em></p>\n<h2>2. Rúbrica</h2>\n<h3>Rúbrica del producto final</h3>\n<p>La rúbrica te dice <strong>desde el principio qué significa un trabajo excelente</strong>. Tiene seis apartados, uno por criterio, y cuatro niveles: Excelente (10), Bien (7,5), En proceso (5) e Insuficiente (2,5). Se te entrega impresa y, al empezar la fase 3, ajustamos juntos la redacción de uno de los apartados para que la sientas tuya.</p>\n<div style=\"position: relative; width: 100%; max-width: 1100px; margin: 0 auto; aspect-ratio: 297 / 210; min-height: 340px;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://drive.google.com/file/d/1yRw8zdtJblGRiwUIcjbvm25kyHtaB2l3/preview\" title=\"Rúbrica de evaluación de la compuerta automatizada (PDF)\" loading=\"lazy\"></iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1yRw8zdtJblGRiwUIcjbvm25kyHtaB2l3/view\" target=\"_blank\" rel=\"noopener\">Abrir o descargar la rúbrica en una ventana nueva</a></p>\n<h2>3. Lista de cotejo</h2>\n<h3>Lista de cotejo de proceso y trabajo en equipo</h3>\n<p>Recoge lo que ocurre <strong>durante las sesiones</strong> y que ni el cuestionario ni el producto final reflejan: cómo trabajáis, cómo os comunicáis y cómo resolvéis los problemas. Se valora con tres niveles: <strong>No</strong> (0), <strong>En proceso</strong> (5) y <strong>Sí</strong> (10). Al cerrar cada fase, tu equipo rellena la misma lista y la contrastamos con lo observado.</p>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Aspecto que se observa</strong></th>\n<th><strong>Criterio</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Propones mejoras tras probar y repites el ciclo de prueba, error y mejora.</td>\n<td>1.2</td>\n</tr>\n<tr>\n<td>Repartes roles y tomas decisiones en el equipo, aportando conocimientos de otras materias.</td>\n<td>1.2</td>\n</tr>\n<tr>\n<td>Te comunicas y colaboras de forma asertiva con las herramientas digitales del equipo.</td>\n<td>3.1</td>\n</tr>\n<tr>\n<td>Registras el trabajo en el diario técnico con vocabulario, símbolos y esquemas técnicos adecuados.</td>\n<td>3.1</td>\n</tr>\n<tr>\n<td>Aplicas el protocolo de actuación ante un fallo antes de pedir ayuda.</td>\n<td>5.1</td>\n</tr>\n<tr>\n<td>Usas y configuras con autonomía MakeCode, el simulador y la carpeta compartida.</td>\n<td>5.1</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h2>Documento completo de los instrumentos</h2>\n<p>Aquí tienes la descripción detallada de los tres instrumentos, con el banco de preguntas de los cuestionarios:</p>\n<div style=\"position: relative; width: 100%; max-width: 1000px; margin: 0 auto; aspect-ratio: 3 / 4; min-height: 500px;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://drive.google.com/file/d/1Lb7oBUYd3GQaXXiapV0GD-ovqL83-TlS/preview\" title=\"8.1 Instrumentos de evaluación (PDF)\" loading=\"lazy\"></iframe></div>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1Lb7oBUYd3GQaXXiapV0GD-ovqL83-TlS/view\" target=\"_blank\" rel=\"noopener\">Abrir el documento en una ventana nueva</a></p>\n<h2>Cómo sacarle partido</h2>\n<ul>\n<li><strong>Antes de empezar:</strong> lee la rúbrica y fíjate en qué diferencia «Excelente» de «Bien» en cada apartado.</li>\n<li><strong>Mientras trabajas:</strong> contrasta tu avance con la rúbrica y anota en tu diario técnico lo que debes mejorar.</li>\n<li><strong>Después de cada cuestionario:</strong> repasa las preguntas falladas con la retroalimentación. Si muchas personas fallan la misma, se refuerza en clase.</li>\n<li><strong>En la autoevaluación y la coevaluación:</strong> sé sincero o sincera y justifica tu valoración. Sirven para aprender, no para castigar.</li>\n</ul>\n<h2>Apoyos y protección de tus datos</h2>\n<ul>\n<li>Si necesitas <strong>más tiempo</strong> o que se te <strong>lean las preguntas en voz alta</strong>, pídelo: no cambia lo que se evalúa.</li>\n<li>Si no tienes dispositivo o falla la conexión, puedes hacer el cuestionario <strong>en papel</strong>.</li>\n<li>Los cuestionarios solo usan las cuentas del centro, no recogen datos innecesarios y los resultados solo los ve el docente.</li>\n<li>Si te ausentas, el aspecto observado queda sin valorar y se recupera en la sesión siguiente, <strong>sin penalización</strong>.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwcbcqdg-hpzbdbafw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwcbcqdg-hpzbdbafw</odePageId>
+      <odeBlockId>block-mwcbd1xx-1sbhtejmt</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwcbcqdg-hpzbdbafw</odePageId>
+          <odeBlockId>block-mwcbd1xx-1sbhtejmt</odeBlockId>
+          <odeIdeviceId>idevice-1794413323796-1rzmhh9n0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Guía didáctica para el profesorado</h2>
+<p>Esta guía está dirigida a los y las docentes que quieran <strong>aplicar o adaptar</strong> la situación de aprendizaje «Compuertas inteligentes para Doñana: del circuito electrónico a la automatización con micro:bit». Reúne lo esencial para llevarla al aula: qué se trabaja, cómo se organiza, cómo se evalúa y qué conviene tener previsto.</p>
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th style="width: 25%;"><strong>Materia y nivel</strong></th>
+<td>Tecnología, 4.º de ESO</td>
+</tr>
+<tr>
+<th><strong>Duración</strong></th>
+<td>23 sesiones: Electricidad y Electrónica (11), Neumática (4) y Automatización con micro:bit (8)</td>
+</tr>
+<tr>
+<th><strong>Producto final</strong></th>
+<td>Una compuerta hídrica automatizada con micro:bit y su dosier técnico</td>
+</tr>
+<tr>
+<th><strong>Marco curricular</strong></th>
+<td>Currículo andaluz de Tecnología de 4.º de ESO (Orden de 30 de mayo de 2023)</td>
+</tr>
+<tr>
+<th><strong>Agrupamiento</strong></th>
+<td>Equipos cooperativos de 3-4 personas, con parejas en la fase de programación y gran grupo en las puestas en común</td>
+</tr>
+</tbody>
+</table>
+<div class="exe-fx exe-tabs">
+<h2>Tareas y criterios</h2>
+<h3>Relación de tareas con criterios de evaluación</h3>
+<div style="overflow-x: auto;">
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Tarea</strong></th>
+<th><strong>Criterio</strong></th>
+<th><strong>Agrupamiento</strong></th>
+<th><strong>Tiempo</strong></th>
+<th><strong>Herramienta</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.</strong> Analizar el reto: ¿cómo se gestiona el agua en las marismas de Doñana? Investigar con fuentes fiables y registrar las fuentes y sus licencias.</td>
+<td>1.1</td>
+<td>Gran grupo y, después, equipos de 3-4</td>
+<td>1 sesión</td>
+<td>Buscador, Symbaloo</td>
+</tr>
+<tr>
+<td><strong>2.</strong> Planificar el proyecto en equipo: reparto de roles, calendario y primeras ideas de diseño de la compuerta.</td>
+<td>1.2</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>1 sesión</td>
+<td>Documento compartido y diario técnico digital</td>
+</tr>
+<tr>
+<td><strong>3.</strong> Diseñar y simular el circuito del motor con finales de carrera, usando esquemas y simbología normalizada.</td>
+<td>4.1 y 3.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>3 sesiones</td>
+<td>TinkerCAD Circuits</td>
+</tr>
+<tr>
+<td><strong>4.</strong> Montar el circuito en el taller, comprobar su funcionamiento y anotar las incidencias en el diario técnico.</td>
+<td>2.2</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>6 sesiones</td>
+<td>Material del taller y diario técnico (con fotos)</td>
+</tr>
+<tr>
+<td><strong>5.</strong> Diseñar, simular y montar el accionamiento neumático con un cilindro de jeringuilla.</td>
+<td>4.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>4 sesiones</td>
+<td>Fluidsim y material del taller</td>
+</tr>
+<tr>
+<td><strong>6.</strong> Programar en bloques la compuerta con micro:bit y probarla en el simulador (documentación en inglés).</td>
+<td>4.1 y 5.1</td>
+<td>Parejas dentro del equipo</td>
+<td>4 sesiones</td>
+<td>MakeCode para micro:bit</td>
+</tr>
+<tr>
+<td><strong>7.</strong> Integrar y probar la compuerta completa, depurar fallos con el protocolo de 4 pasos y repetir las pruebas hasta validarla.</td>
+<td>1.2 y 4.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>2 sesiones</td>
+<td>MakeCode, micro:bit y diario técnico</td>
+</tr>
+<tr>
+<td><strong>8.</strong> Analizar la sostenibilidad de la compuerta: uso eficiente del agua, elección de materiales, reciclaje y consumo de los dispositivos.</td>
+<td>6.1</td>
+<td>Equipos cooperativos de 3-4</td>
+<td>1 sesión</td>
+<td>Documento compartido o Padlet</td>
+</tr>
+<tr>
+<td><strong>9.</strong> Presentar y difundir el proyecto con un lenguaje inclusivo y técnico, citando las imágenes con su licencia, y hacer la autoevaluación y la coevaluación.</td>
+<td>3.2</td>
+<td>Equipos y gran grupo</td>
+<td>1 sesión</td>
+<td>Google Sites (o presentación) y formulario digital</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Criterios</h2>
+<h3>Criterios de evaluación que se trabajan</h3>
+<p>La SdA trabaja <strong>ocho de los trece criterios</strong> de la materia. No se evalúan aquí los criterios 1.3, 2.1, 6.2 y 6.3. Los enunciados están resumidos; los textos oficiales completos figuran en la Orden de 30 de mayo de 2023.</p>
+<div style="overflow-x: auto;">
+<table class="exe-table" style="width: 100%; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th><strong>Criterio</strong></th>
+<th><strong>Qué pide (resumido)</strong></th>
+<th><strong>Dónde se trabaja en la SdA</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.1</strong></td>
+<td>Idear y planificar soluciones tecnológicas que aporten valor a la comunidad, partiendo del análisis del entorno, sus necesidades y requisitos.</td>
+<td>Diseño de la compuerta a partir del problema de la gestión del agua en Doñana.</td>
+</tr>
+<tr>
+<td><strong>1.2</strong></td>
+<td>Aplicar con iniciativa estrategias colaborativas de gestión de proyectos, con perspectiva interdisciplinar y proceso iterativo de validación.</td>
+<td>Trabajo por equipos y ciclos de prueba y mejora en las tres fases.</td>
+</tr>
+<tr>
+<td><strong>2.2</strong></td>
+<td>Fabricar productos y soluciones tecnológicas con técnicas, materiales y recursos mecánicos, eléctricos, electrónicos y digitales adecuados.</td>
+<td>Montaje del circuito del motor, del cilindro neumático y de la estructura.</td>
+</tr>
+<tr>
+<td><strong>3.1</strong></td>
+<td>Intercambiar información y trabajar en equipo de forma asertiva con herramientas digitales, vocabulario técnico, símbolos y esquemas.</td>
+<td>Diario técnico, esquemas de circuitos y comunicación en el equipo.</td>
+</tr>
+<tr>
+<td><strong>3.2</strong></td>
+<td>Presentar y difundir las soluciones de manera efectiva, con expresión adecuada, gestión del tiempo y lenguaje inclusivo.</td>
+<td>Demostración final de la compuerta.</td>
+</tr>
+<tr>
+<td><strong>4.1</strong></td>
+<td>Diseñar, construir, controlar y simular sistemas automáticos programables aplicando mecánica, electrónica, neumática y control.</td>
+<td>Fase 3 con micro:bit y MakeCode, apoyada en las fases 1 y 2.</td>
+</tr>
+<tr>
+<td><strong>5.1</strong></td>
+<td>Resolver tareas de forma eficiente mediante el uso y configuración de aplicaciones y herramientas digitales, con autonomía.</td>
+<td>MakeCode, simulador, Drive y resolución de incidencias técnicas.</td>
+</tr>
+<tr>
+<td><strong>6.1</strong></td>
+<td>Hacer un uso responsable de la tecnología con criterios de sostenibilidad y accesibilidad en materiales, diseño y fabricación.</td>
+<td>Uso eficiente del agua y de los materiales, reutilización.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Evaluación</h2>
+<h3>Cómo se evalúa</h3>
+<p>La evaluación es competencial y usa tres instrumentos: <strong>cuestionarios de fase</strong>, una <strong>rúbrica del producto final</strong> y una <strong>lista de cotejo</strong> de proceso y trabajo en equipo. Su peso es proporcional al número de criterios que evalúa cada uno, y varios criterios se evalúan con dos instrumentos para contrastar los resultados.</p>
+<p>Encontrarás los instrumentos, la rúbrica y el banco de preguntas en la página <strong>Instrumentos de evaluación</strong>.</p>
+<h2>Diversidad y DUA</h2>
+<h3>Atención a la diversidad y DUA</h3>
+<ul>
+<li><strong>Representación:</strong> el contenido se ofrece en varios formatos (texto, esquemas, vídeo, simuladores y manipulación real).</li>
+<li><strong>Acción y expresión:</strong> el alumnado puede mostrar lo aprendido con texto, vídeo con voz o subtítulos, fotos descritas o demostración en directo.</li>
+<li><strong>Implicación:</strong> un reto con sentido real (la gestión del agua en Doñana), trabajo cooperativo, roles rotativos y la posibilidad de ajustar con el grupo la redacción de la rúbrica.</li>
+<li><strong>Apoyos:</strong> más tiempo, lectura en voz alta de las preguntas, guiones de ayuda y ejemplos, sin cambiar lo que se evalúa.</li>
+<li><strong>Agrupamientos flexibles:</strong> quien domina un contenido se reúne con quien lo necesita, según los datos de los cuestionarios.</li>
+</ul>
+<h3>Conexión con otras materias</h3>
+<p>La SdA se conecta con <strong>Matemáticas</strong> (medidas y cálculo), <strong>Física y Química</strong> (ley de Ohm, presión y fuerza), <strong>Inglés</strong> (documentación técnica y vocabulario de MakeCode), <strong>Biología y Geología</strong> y <strong>Geografía e Historia</strong> (el ecosistema de Doñana y su gestión del agua).</p>
+<h2>Plan de contingencia</h2>
+<h3>Cuando falla la tecnología</h3>
+<p>Los problemas técnicos se resuelven mejor si se anticipan:</p>
+<ul>
+<li><strong>Antes de cada sesión:</strong> revisar equipos, conexión y programas, y disponer de copias locales de los materiales y de los archivos de trabajo.</li>
+<li><strong>Protocolo del alumnado en 4 pasos:</strong> reiniciar el equipo, comprobar las conexiones, probar una alternativa y avisar al docente. Fomenta la autonomía.</li>
+<li><strong>Si fallan uno o dos equipos:</strong> el grupo se integra temporalmente en otro.</li>
+<li><strong>Si no hay red:</strong> se trabaja con archivos locales y con el diario técnico en papel.</li>
+<li><strong>Si el fallo es masivo:</strong> hay preparada una tarea desconectada en papel.</li>
+<li><strong>Después:</strong> el docente registra cada incidencia para mejorar la sesión siguiente y se aprovecha el fallo como aprendizaje, porque depurar un circuito o un programa forma parte de la competencia técnica y digital.</li>
+</ul>
+<h2>Recomendaciones</h2>
+<h3>Para aplicarla en tu aula</h3>
+<ul>
+<li><strong>Prueba el montaje antes que el alumnado.</strong> Construye tú la compuerta completa para detectar fallos de materiales y tiempos.</li>
+<li><strong>Prepara el material reutilizado con antelación</strong> (listones, cartón, jeringuillas, tubos) y comprueba que los émbolos se mueven con suavidad.</li>
+<li><strong>Presenta la rúbrica al empezar la fase 3</strong> y ajusta con el alumnado la redacción de un apartado.</li>
+<li><strong>Observa a dos o tres equipos por sesión</strong> de forma rotativa para que, al cerrar cada fase, todos hayan sido observados al menos una vez.</li>
+<li><strong>Analiza los cuestionarios por pregunta:</strong> si una baja del 60 % de aciertos, refuérzala en la sesión siguiente. Si una acierta el 100 % o menos del 20 %, revísala.</li>
+<li><strong>Adapta el proyecto a tu contexto:</strong> el problema real (el agua en Doñana) puede sustituirse por otro de tu entorno, manteniendo la secuencia de las tres fases.</li>
+<li><strong>Revisa los instrumentos tras la primera aplicación,</strong> elimina o reformula lo que no aporte información y anota los cambios para la siguiente edición.</li>
+</ul>
+<h3>Descargar y reutilizar</h3>
+<p>Este recurso se puede reutilizar y adaptar según su licencia. En la página <strong>Créditos</strong> encontrarás los datos de autoría y el botón para descargar el archivo editable.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794413323796-1rzmhh9n0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Guía didáctica para el profesorado</h2>\n<p>Esta guía está dirigida a los y las docentes que quieran <strong>aplicar o adaptar</strong> la situación de aprendizaje «Compuertas inteligentes para Doñana: del circuito electrónico a la automatización con micro:bit». Reúne lo esencial para llevarla al aula: qué se trabaja, cómo se organiza, cómo se evalúa y qué conviene tener previsto.</p>\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<th style=\"width: 25%;\"><strong>Materia y nivel</strong></th>\n<td>Tecnología, 4.º de ESO</td>\n</tr>\n<tr>\n<th><strong>Duración</strong></th>\n<td>23 sesiones: Electricidad y Electrónica (11), Neumática (4) y Automatización con micro:bit (8)</td>\n</tr>\n<tr>\n<th><strong>Producto final</strong></th>\n<td>Una compuerta hídrica automatizada con micro:bit y su dosier técnico</td>\n</tr>\n<tr>\n<th><strong>Marco curricular</strong></th>\n<td>Currículo andaluz de Tecnología de 4.º de ESO (Orden de 30 de mayo de 2023)</td>\n</tr>\n<tr>\n<th><strong>Agrupamiento</strong></th>\n<td>Equipos cooperativos de 3-4 personas, con parejas en la fase de programación y gran grupo en las puestas en común</td>\n</tr>\n</tbody>\n</table>\n<div class=\"exe-fx exe-tabs\">\n<h2>Tareas y criterios</h2>\n<h3>Relación de tareas con criterios de evaluación</h3>\n<div style=\"overflow-x: auto;\">\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Tarea</strong></th>\n<th><strong>Criterio</strong></th>\n<th><strong>Agrupamiento</strong></th>\n<th><strong>Tiempo</strong></th>\n<th><strong>Herramienta</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1.</strong> Analizar el reto: ¿cómo se gestiona el agua en las marismas de Doñana? Investigar con fuentes fiables y registrar las fuentes y sus licencias.</td>\n<td>1.1</td>\n<td>Gran grupo y, después, equipos de 3-4</td>\n<td>1 sesión</td>\n<td>Buscador, Symbaloo</td>\n</tr>\n<tr>\n<td><strong>2.</strong> Planificar el proyecto en equipo: reparto de roles, calendario y primeras ideas de diseño de la compuerta.</td>\n<td>1.2</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>1 sesión</td>\n<td>Documento compartido y diario técnico digital</td>\n</tr>\n<tr>\n<td><strong>3.</strong> Diseñar y simular el circuito del motor con finales de carrera, usando esquemas y simbología normalizada.</td>\n<td>4.1 y 3.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>3 sesiones</td>\n<td>TinkerCAD Circuits</td>\n</tr>\n<tr>\n<td><strong>4.</strong> Montar el circuito en el taller, comprobar su funcionamiento y anotar las incidencias en el diario técnico.</td>\n<td>2.2</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>6 sesiones</td>\n<td>Material del taller y diario técnico (con fotos)</td>\n</tr>\n<tr>\n<td><strong>5.</strong> Diseñar, simular y montar el accionamiento neumático con un cilindro de jeringuilla.</td>\n<td>4.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>4 sesiones</td>\n<td>Fluidsim y material del taller</td>\n</tr>\n<tr>\n<td><strong>6.</strong> Programar en bloques la compuerta con micro:bit y probarla en el simulador (documentación en inglés).</td>\n<td>4.1 y 5.1</td>\n<td>Parejas dentro del equipo</td>\n<td>4 sesiones</td>\n<td>MakeCode para micro:bit</td>\n</tr>\n<tr>\n<td><strong>7.</strong> Integrar y probar la compuerta completa, depurar fallos con el protocolo de 4 pasos y repetir las pruebas hasta validarla.</td>\n<td>1.2 y 4.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>2 sesiones</td>\n<td>MakeCode, micro:bit y diario técnico</td>\n</tr>\n<tr>\n<td><strong>8.</strong> Analizar la sostenibilidad de la compuerta: uso eficiente del agua, elección de materiales, reciclaje y consumo de los dispositivos.</td>\n<td>6.1</td>\n<td>Equipos cooperativos de 3-4</td>\n<td>1 sesión</td>\n<td>Documento compartido o Padlet</td>\n</tr>\n<tr>\n<td><strong>9.</strong> Presentar y difundir el proyecto con un lenguaje inclusivo y técnico, citando las imágenes con su licencia, y hacer la autoevaluación y la coevaluación.</td>\n<td>3.2</td>\n<td>Equipos y gran grupo</td>\n<td>1 sesión</td>\n<td>Google Sites (o presentación) y formulario digital</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h2>Criterios</h2>\n<h3>Criterios de evaluación que se trabajan</h3>\n<p>La SdA trabaja <strong>ocho de los trece criterios</strong> de la materia. No se evalúan aquí los criterios 1.3, 2.1, 6.2 y 6.3. Los enunciados están resumidos; los textos oficiales completos figuran en la Orden de 30 de mayo de 2023.</p>\n<div style=\"overflow-x: auto;\">\n<table class=\"exe-table\" style=\"width: 100%; margin-left: auto; margin-right: auto;\">\n<thead>\n<tr>\n<th><strong>Criterio</strong></th>\n<th><strong>Qué pide (resumido)</strong></th>\n<th><strong>Dónde se trabaja en la SdA</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>1.1</strong></td>\n<td>Idear y planificar soluciones tecnológicas que aporten valor a la comunidad, partiendo del análisis del entorno, sus necesidades y requisitos.</td>\n<td>Diseño de la compuerta a partir del problema de la gestión del agua en Doñana.</td>\n</tr>\n<tr>\n<td><strong>1.2</strong></td>\n<td>Aplicar con iniciativa estrategias colaborativas de gestión de proyectos, con perspectiva interdisciplinar y proceso iterativo de validación.</td>\n<td>Trabajo por equipos y ciclos de prueba y mejora en las tres fases.</td>\n</tr>\n<tr>\n<td><strong>2.2</strong></td>\n<td>Fabricar productos y soluciones tecnológicas con técnicas, materiales y recursos mecánicos, eléctricos, electrónicos y digitales adecuados.</td>\n<td>Montaje del circuito del motor, del cilindro neumático y de la estructura.</td>\n</tr>\n<tr>\n<td><strong>3.1</strong></td>\n<td>Intercambiar información y trabajar en equipo de forma asertiva con herramientas digitales, vocabulario técnico, símbolos y esquemas.</td>\n<td>Diario técnico, esquemas de circuitos y comunicación en el equipo.</td>\n</tr>\n<tr>\n<td><strong>3.2</strong></td>\n<td>Presentar y difundir las soluciones de manera efectiva, con expresión adecuada, gestión del tiempo y lenguaje inclusivo.</td>\n<td>Demostración final de la compuerta.</td>\n</tr>\n<tr>\n<td><strong>4.1</strong></td>\n<td>Diseñar, construir, controlar y simular sistemas automáticos programables aplicando mecánica, electrónica, neumática y control.</td>\n<td>Fase 3 con micro:bit y MakeCode, apoyada en las fases 1 y 2.</td>\n</tr>\n<tr>\n<td><strong>5.1</strong></td>\n<td>Resolver tareas de forma eficiente mediante el uso y configuración de aplicaciones y herramientas digitales, con autonomía.</td>\n<td>MakeCode, simulador, Drive y resolución de incidencias técnicas.</td>\n</tr>\n<tr>\n<td><strong>6.1</strong></td>\n<td>Hacer un uso responsable de la tecnología con criterios de sostenibilidad y accesibilidad en materiales, diseño y fabricación.</td>\n<td>Uso eficiente del agua y de los materiales, reutilización.</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h2>Evaluación</h2>\n<h3>Cómo se evalúa</h3>\n<p>La evaluación es competencial y usa tres instrumentos: <strong>cuestionarios de fase</strong>, una <strong>rúbrica del producto final</strong> y una <strong>lista de cotejo</strong> de proceso y trabajo en equipo. Su peso es proporcional al número de criterios que evalúa cada uno, y varios criterios se evalúan con dos instrumentos para contrastar los resultados.</p>\n<p>Encontrarás los instrumentos, la rúbrica y el banco de preguntas en la página <strong>Instrumentos de evaluación</strong>.</p>\n<h2>Diversidad y DUA</h2>\n<h3>Atención a la diversidad y DUA</h3>\n<ul>\n<li><strong>Representación:</strong> el contenido se ofrece en varios formatos (texto, esquemas, vídeo, simuladores y manipulación real).</li>\n<li><strong>Acción y expresión:</strong> el alumnado puede mostrar lo aprendido con texto, vídeo con voz o subtítulos, fotos descritas o demostración en directo.</li>\n<li><strong>Implicación:</strong> un reto con sentido real (la gestión del agua en Doñana), trabajo cooperativo, roles rotativos y la posibilidad de ajustar con el grupo la redacción de la rúbrica.</li>\n<li><strong>Apoyos:</strong> más tiempo, lectura en voz alta de las preguntas, guiones de ayuda y ejemplos, sin cambiar lo que se evalúa.</li>\n<li><strong>Agrupamientos flexibles:</strong> quien domina un contenido se reúne con quien lo necesita, según los datos de los cuestionarios.</li>\n</ul>\n<h3>Conexión con otras materias</h3>\n<p>La SdA se conecta con <strong>Matemáticas</strong> (medidas y cálculo), <strong>Física y Química</strong> (ley de Ohm, presión y fuerza), <strong>Inglés</strong> (documentación técnica y vocabulario de MakeCode), <strong>Biología y Geología</strong> y <strong>Geografía e Historia</strong> (el ecosistema de Doñana y su gestión del agua).</p>\n<h2>Plan de contingencia</h2>\n<h3>Cuando falla la tecnología</h3>\n<p>Los problemas técnicos se resuelven mejor si se anticipan:</p>\n<ul>\n<li><strong>Antes de cada sesión:</strong> revisar equipos, conexión y programas, y disponer de copias locales de los materiales y de los archivos de trabajo.</li>\n<li><strong>Protocolo del alumnado en 4 pasos:</strong> reiniciar el equipo, comprobar las conexiones, probar una alternativa y avisar al docente. Fomenta la autonomía.</li>\n<li><strong>Si fallan uno o dos equipos:</strong> el grupo se integra temporalmente en otro.</li>\n<li><strong>Si no hay red:</strong> se trabaja con archivos locales y con el diario técnico en papel.</li>\n<li><strong>Si el fallo es masivo:</strong> hay preparada una tarea desconectada en papel.</li>\n<li><strong>Después:</strong> el docente registra cada incidencia para mejorar la sesión siguiente y se aprovecha el fallo como aprendizaje, porque depurar un circuito o un programa forma parte de la competencia técnica y digital.</li>\n</ul>\n<h2>Recomendaciones</h2>\n<h3>Para aplicarla en tu aula</h3>\n<ul>\n<li><strong>Prueba el montaje antes que el alumnado.</strong> Construye tú la compuerta completa para detectar fallos de materiales y tiempos.</li>\n<li><strong>Prepara el material reutilizado con antelación</strong> (listones, cartón, jeringuillas, tubos) y comprueba que los émbolos se mueven con suavidad.</li>\n<li><strong>Presenta la rúbrica al empezar la fase 3</strong> y ajusta con el alumnado la redacción de un apartado.</li>\n<li><strong>Observa a dos o tres equipos por sesión</strong> de forma rotativa para que, al cerrar cada fase, todos hayan sido observados al menos una vez.</li>\n<li><strong>Analiza los cuestionarios por pregunta:</strong> si una baja del 60 % de aciertos, refuérzala en la sesión siguiente. Si una acierta el 100 % o menos del 20 %, revísala.</li>\n<li><strong>Adapta el proyecto a tu contexto:</strong> el problema real (el agua en Doñana) puede sustituirse por otro de tu entorno, manteniendo la secuencia de las tres fases.</li>\n<li><strong>Revisa los instrumentos tras la primera aplicación,</strong> elimina o reformula lo que no aporte información y anota los cambios para la siguiente edición.</li>\n</ul>\n<h3>Descargar y reutilizar</h3>\n<p>Este recurso se puede reutilizar y adaptar según su licencia. En la página <strong>Créditos</strong> encontrarás los datos de autoría y el botón para descargar el archivo editable.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mwcbcqdg-hpzbdbafw</odePageId>
+          <odeBlockId>block-mwcbd1xx-1sbhtejmt</odeBlockId>
+          <odeIdeviceId>idevice-1794414064801-5amr9x7qi</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Compuertas inteligentes para Doñana: del circuito electrónico a la automatización con micro:bit</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">Diseño, construcción y automatización para la gestión sostenible de recursos hídricos</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Manuel Hernández Cledera</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwc0gaoa-5tijii7js</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwc0gaoa-5tijii7js</odePageId>
+      <odeBlockId>block-mwc0hf7y-gcs5iuwq0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwc0gaoa-5tijii7js</odePageId>
+          <odeBlockId>block-mwc0hf7y-gcs5iuwq0</odeBlockId>
+          <odeIdeviceId>idevice-1794395051852-ulq6sxx8z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table class="exe-table" style="height: 187px; width: 1558px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 28px;">
+<th style="width: 162.825px; height: 28px;"><strong>Título</strong></th>
+<td style="width: 918.375px; height: 28px;">Compuertas inteligentes para Doñana: del circuito electrónico a la automatización con micro:bit<br /></td>
+</tr>
+<tr style="height: 28px;">
+<th style="width: 162.825px; height: 28px;"><strong>Autoría</strong></th>
+<td style="width: 918.375px; height: 28px;">Manuel Hernández Cledera</td>
+</tr>
+<tr style="height: 28px;">
+<th style="width: 162.825px; height: 28px;"><strong>Curso de aplicación</strong></th>
+<td style="width: 918.375px; height: 28px;">COMPETENCIA DIGITAL DOCENTE NIVEL B2 (279916KPF429)</td>
+</tr>
+<tr style="height: 28px;">
+<th style="width: 162.825px; height: 28px;"><strong>Licencia</strong></th>
+<td style="width: 918.375px; height: 28px;">
+<p>   <img src="{{context_path}}/content/resources/Licencias.jpg" alt="" width="171" height="60" />   <a href=" https://creativecommons.org/licenses/by-nc-sa/4.0/ " target="_blank" rel="noopener">https://creativecommons.org/licenses/by-nc-sa/4.0/</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/" target="_blank" title="Enlace a web, abre en ventana nueva" rel="noopener">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794395051852-ulq6sxx8z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table class=\"exe-table\" style=\"height: 187px; width: 1558px; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 28px;\">\n<th style=\"width: 162.825px; height: 28px;\"><strong>Título</strong></th>\n<td style=\"width: 918.375px; height: 28px;\">Compuertas inteligentes para Doñana: del circuito electrónico a la automatización con micro:bit<br /></td>\n</tr>\n<tr style=\"height: 28px;\">\n<th style=\"width: 162.825px; height: 28px;\"><strong>Autoría</strong></th>\n<td style=\"width: 918.375px; height: 28px;\">Manuel Hernández Cledera</td>\n</tr>\n<tr style=\"height: 28px;\">\n<th style=\"width: 162.825px; height: 28px;\"><strong>Curso de aplicación</strong></th>\n<td style=\"width: 918.375px; height: 28px;\">COMPETENCIA DIGITAL DOCENTE NIVEL B2 (279916KPF429)</td>\n</tr>\n<tr style=\"height: 28px;\">\n<th style=\"width: 162.825px; height: 28px;\"><strong>Licencia</strong></th>\n<td style=\"width: 918.375px; height: 28px;\">\n<p>   <img src=\"{{context_path}}/content/resources/Licencias.jpg\" alt=\"\" width=\"171\" height=\"60\" />   <a href=\" https://creativecommons.org/licenses/by-nc-sa/4.0/ \" target=\"_blank\" rel=\"noopener\">https://creativecommons.org/licenses/by-nc-sa/4.0/</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\" target=\"_blank\" title=\"Enlace a web, abre en ventana nueva\" rel=\"noopener\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
