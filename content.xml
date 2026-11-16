@@ -828,11 +828,13 @@
           <odeIdeviceId>idevice-1794415067728-bu197oy47</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><video width="100%" height="150" autoplay="autoplay" loop="loop" muted="" playsinline="">
-  <source src="{{context_path}}/content/resources/hero-circuits.mp4" type="video/mp4" />
-  Tu navegador no soporta la etiqueta de video HTML5.</video></p>
+    <figure style="margin: 0; text-align: center;"><video width="100%" height="150" autoplay="autoplay" loop="loop" muted="" playsinline="" controls="controls" title="Vista del simulador Autodesk Tinkercad Circuits">
+  <source src="https://static.tinkercad.com/marketing/circuits/hero-circuits.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de vídeo HTML5. <a href="https://www.tinkercad.com/circuits" target="_blank" rel="noopener">Ver Tinkercad Circuits en su web</a>.</video>
+<figcaption>Vídeo: Autodesk Tinkercad Circuits. Fuente: <a href="https://www.tinkercad.com/circuits" target="_blank" rel="noopener">tinkercad.com/circuits</a>. © Autodesk.</figcaption>
+</figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794415067728-bu197oy47","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><video width=\"100%\" height=\"150\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" playsinline=\"\">\n  <source src=\"{{context_path}}/content/resources/hero-circuits.mp4\" type=\"video/mp4\" />\n  Tu navegador no soporta la etiqueta de video HTML5.</video></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794415067728-bu197oy47","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure style=\"margin: 0; text-align: center;\"><video width=\"100%\" height=\"150\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" playsinline=\"\" controls=\"controls\" title=\"Vista del simulador Autodesk Tinkercad Circuits\">\n  <source src=\"https://static.tinkercad.com/marketing/circuits/hero-circuits.mp4\" type=\"video/mp4\" />\n  Tu navegador no soporta la etiqueta de vídeo HTML5. <a href=\"https://www.tinkercad.com/circuits\" target=\"_blank\" rel=\"noopener\">Ver Tinkercad Circuits en su web</a>.</video>\n<figcaption>Vídeo: Autodesk Tinkercad Circuits. Fuente: <a href=\"https://www.tinkercad.com/circuits\" target=\"_blank\" rel=\"noopener\">tinkercad.com/circuits</a>. © Autodesk.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>2</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1228,7 +1230,7 @@
     <odePagStructure>
       <odePageId>page-mwc51osn-nb4ferlaf</odePageId>
       <odeBlockId>block-mwc51umj-4rrzhidmd</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1460,7 +1462,7 @@
     <odePagStructure>
       <odePageId>page-mwcb6wkc-t945bwgqi</odePageId>
       <odeBlockId>block-mwcb7141-dcqi4loap</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
